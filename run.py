@@ -2,6 +2,18 @@ import os
 import pickle
 import csv
 
+README = """# team bi0s
+## CTF Solves
+
+Use `run.py` to see your solve stats. 
+- Select option 1 and provide your exact username
+- If you've had multiple usernames in the past, try all of them separately. 
+
+## Team Statistics
+| Username | Solves |
+| --- | --- |
+"""
+
 filenames = os.listdir('solves/')
 filenames = ['solves/'+i for i in filenames]
     
@@ -48,8 +60,11 @@ while True:
                 count+=1
         print("Total solves:",count)
     elif ch == '2':
+        readme = open('README.md', 'w')
+        readme.write(README)
         for i,j in solves.items():
-            print(i,j)
+            readme.write(f"| {i} | {j} |\n")
+        print("README.md updated")
     elif ch == '3':
         break
     else:
