@@ -1,0 +1,22 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+irisctf24-the_maze,['reverse'],"k1n0r4, retr0ds, amunrha, ad0lphus, sherlockcheezu, xbr01, justk1r4",Nil
+irisctf24-secrue_computing,['reverse'],"k1n0r4, sherlockcheezu, the.m3chanic, retr0ds, amunrha, barlaabhi, ad0lphus, ls.exe, xbr01, justk1r4, abhishekbharadwaj",Nil
+irisctf24-wheres_skat,['forensics'],"hrippi.x_, azr43lkn1ght, gh0stkn1ght, sh.4rk, sp3p3x, jl_24, spektr.e, justk1r4",Nil
+irisctf24-not_just_media,['forensics'],"hrippi.x_, gh0stkn1ght, sh.4rk, azr43lkn1ght, sp3p3x, jl_24, justk1r4",Nil
+irisctf24-memory,['pwn'],justk1r4,2024-01-06 12:18:58.358000
+irisctf24-serious-banking,['pwn'],"_r0r1_, spektr.e, tourpran, justk1r4",Nil
+irisctf24-copper-selachimorpha,['forensics'],"gh0stkn1ght, sp3p3x, sh.4rk, hrippi.x_, jl_24, azr43lkn1ght, justk1r4",Nil
+irisctf24-manykey,['crypto'],"ls.exe, abhishekbharadwaj",2024-01-08 02:54:15.794000
+irisctf24-lamenote,['web'],"alfin, luc_f3r, winters0x168, lu513n",2024-01-07 19:33:33.914000
+irisctf24-investigator_alligator,['forensics'],"azr43lkn1ght, jl_24, sh.4rk, sp3p3x",2024-01-06 18:16:54.315000
+irisctf24-skats_sd_card,['forensics'],"azr43lkn1ght, sp3p3x, jl_24, gh0stkn1ght, sh.4rk",2024-01-06 22:03:42.602000
+irisctf24-sequilitis,['pwn'],"justk1r4, spektr.e",Nil
+irisctf24-mokersee,['web'],lu513n,2024-01-08 02:16:41.824000
+irisctf24-lost_and_found,['forensics'],"sp3p3x, jl_24, gh0stkn1ght, justk1r4",Nil
+irisctf24-corrupted_world,['forensics'],"gh0stkn1ght, jl_24, sp3p3x, justk1r4",Nil
+irisctf24-integral_communication,['crypto'],"ls.exe, ___apn___",2024-01-06 16:26:42.073000
+irisctf24-dhash,['crypto'],ls.exe,2024-01-06 17:27:25.477000
+irisctf24-sir_scope,['misc'],"justk1r4, spektr.e, ls.exe",2024-01-07 12:56:03.762000
+irisctf24-skats_network_history,['forensics'],"sh.4rk, hrippi.x_",2024-01-06 19:25:00.667000
+irisctf24-peanoscramble,['misc'],"justk1r4, spektr.e",Nil
+irisctf24-namethatsong4,['misc'],"spektr.e, justk1r4",Nil

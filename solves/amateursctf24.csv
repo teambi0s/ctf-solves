@@ -1,0 +1,46 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+amateursctf24-typo,['reverse'],tricky_ninja,2024-04-05 23:19:51.626000
+amateursctf24-hole,['reverse'],"k1n0r4, amunrha, kndn",2024-04-10 04:10:32.463000
+amateursctf24-cookie,['misc'],"justk1r4, silence_, j0dh7, its_me_ask, __m1m1__, z_pacifist, hrippi.x_, spektr.e, jl_24, gh0stkn1ght",Nil
+amateursctf24-supplychain,['misc'],"j0dh7, its_me_ask, 5h4rrk, gh0stkn1ght, __m1m1__, hrippi.x_, jl_24, z_pacifist, spektr.e, justk1r4",Nil
+amateursctf24-unsuspicious-rsa,['crypto'],"ls.exe, aerosol., hisoka.fr",2024-04-05 21:05:49.306000
+amateursctf24-baby-sandbox,['pwn'],"justk1r4, silence_, _r0r1_, tourpran, heartstoller, justk1r4",2024-04-07 16:46:13.763000
+amateursctf24-summit,['pwn'],"tourpran, spektr.e, justk1r4, silence_, _r0r1_, b4tmite",Nil
+amateursctf24-bearsay,['pwn'],"silence_, b4tmite, justk1r4, heartstoller, spektr.e",2024-04-05 21:51:21.484000
+amateursctf24-heaps-of-fun,['pwn'],"tourpran, spektr.e, justk1r4",2024-04-05 23:10:42.353000
+amateursctf24-faked-onion,['crypto'],"ls.exe, aerosol., hisoka.fr",2024-04-05 23:12:56.448000
+amateursctf24-denied,['web'],570rmbreaker,2024-04-05 22:03:30.355000
+amateursctf24-agile-rut,['web'],"r0h1t.pxh, k0w4lsk1_",2024-04-07 12:47:48.010000
+amateursctf24-sansomega,['misc'],justk1r4,2024-04-06 18:35:02.352000
+amateursctf24-ecsuses,['crypto'],"sans8475, aerosol.",Nil
+amateursctf24-drunk-lcg,['crypto'],sans8475,Nil
+amateursctf24-bathroom-break,['osint'],silence_,2024-04-06 20:25:26.057000
+amateursctf24-cherry-blossoms,['osint'],silence_,2024-04-06 20:41:32.503000
+amateursctf24-densely-paked,['misc'],"its_me_ask, j0dh7, 5h4rrk",2024-04-07 11:32:54.371000
+amateursctf24-wumpus_leaks,['osint'],z_pacifist,2024-04-07 16:24:29.585000
+amateursctf24-cplusplus,['reverse'],"tricky_ninja, aerosol.",2024-04-07 22:05:35.076000
+amateursctf24-decryption_as_a_service,['crypto'],"ls.exe, hisoka.fr",2024-04-08 19:52:15.147000
+amateursctf24-dill-with-it,['reverse'],"retr0ds, tricky_ninja, kndn",2024-04-10 04:26:48.618000
+amateursctf24-creative-login-page-challenge,['web'],"k0w4lsk1_, ma1f0y_, z_pacifist, alfin, 570rmbreaker, r0h1t.pxh, luc_f3r, winters0x168",2024-04-07 22:25:40.573000
+amateursctf24-javajail,['misc'],"silence_, heartstoller",2024-04-08 16:34:02.518000
+amateursctf24-reflection,['pwn'],"_r0r1_, silence_",2024-04-07 22:07:29.407000
+amateursctf24-the-flag-sharing-network,['web'],"winters0x168, z_pacifist, avntka, k0w4lsk1_, l0x.me, luc_f3r",Nil
+amateursctf24-buffer-overflow,['pwn'],"_r0r1_, spektr.e, justk1r4, silence_",2024-04-07 17:21:54.044000
+amateursctf24-baby-elfcrafting,['pwn'],"justk1r4, silence_, tourpran, heartstoller, _r0r1_",Nil
+amateursctf24-less-suspicious-rsa,['crypto'],ls.exe,2024-04-08 18:35:11.670000
+amateursctf24-one-solve,['web'],"r0h1t.pxh, lu513n, winters0x168, luc_f3r, k0w4lsk1_",2024-04-07 19:07:05.674000
+amateursctf24-crackbox,['pwn'],"justk1r4, tourpran, silence_, heartstoller, spektr.e",Nil
+amateursctf24-revtale_1,['reverse'],retr0ds,2024-04-08 11:46:52.105000
+amateursctf24-gogogaga,['reverse'],"k1n0r4, retr0ds",2024-04-09 18:53:19.438000
+amateursctf24-javajail2,['misc'],"k0w4lsk1_, luc_f3r, r0h1t.pxh, winters0x168",2024-04-09 19:10:41.659000
+amateursctf24-sculpture,['web'],alfin,2024-04-08 17:10:09.828000
+amateursctf24-tarcrypt,['misc'],"gh0stkn1ght, sp3p3x, j0dh7, its_me_ask, __m1m1__",2024-04-09 18:44:37.794000
+amateursctf24-baby-bear-blockchain,['pwn'],"spektr.e, justk1r4, silence_, b4tmite, heartstoller",Nil
+amateursctf24-pyquinejailgolf,['misc'],"heartstoller, spektr.e, b4tmite, silence_, justk1r4, ma1f0y_, alfin, l0x.me, lu513n, sp3p3x, sans8475",Nil
+amateursctf24-guessctf,['misc'],"silence_, spektr.e, heartstoller, z_pacifist, k0w4lsk1_, ma1f0y_, alfin, l0x.me, lu513n, luc_f3r, justk1r4",Nil
+amateursctf24-pilfer-techies,['crypto'],"sans8475, ___apn___, aerosol., hisoka.fr, ls.exe",Nil
+amateursctf24-orz-larry,['misc'],"silence_, justk1r4, heartstoller, b4tmite, luc_f3r, k0w4lsk1_, winters0x168",Nil
+amateursctf24-liz,['misc'],"silence_, aerosol., heartstoller, __m1m1__, j0dh7, 5h4rrk, hrippi.x_, jl_24, gh0stkn1ght, tricky_ninja, b4tmite, its_me_ask, k0w4lsk1_, justk1r4, winters0x168",Nil
+amateursctf24-bears-flagcord,['misc'],"winters0x168, k0w4lsk1_, silence_, r0h1t.pxh, b4tmite, heartstoller, j0dh7, __m1m1__, gh0stkn1ght, tr4c3734, 5h4rrk, hrippi.x_, jl_24, its_me_ask",Nil
+amateursctf24-flagpatch,['reverse'],"retr0ds, k1n0r4, amunrha",2024-04-10 06:23:43.705000
+amateursctf24-revtale_2,['reverse'],retr0ds,Nil

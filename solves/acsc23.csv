@@ -1,0 +1,24 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+acsc23-vaccine,pwn,"spektre, shravya, DarkKnight, k1R4",2023-02-25 16:11:43.406000
+acsc23-admin_dashboard,web,"Z_Pacifist, Aneesh, alfin, DhN, victim1307, Lu513n, sk4d, L0xm1",2023-02-25 16:51:25.601000
+acsc23-pcap-1,forensics,"w3!rd5h4rk, Azr43lKn1ght, nandita sangeeth",2023-02-25 10:09:44.007000
+acsc23-serverless,reverse,"AmunRha, retr0ds, Barla Abhishek, DhN",2023-02-25 11:27:12.214000
+acsc23-merkle_hellman,crypto,LS,2023-02-25 08:54:39.417000
+acsc23-snake,reverse,"AmunRha, Barla Abhishek, Ad0lphus, retr0ds, k1n0r4, r3x, Freakston",Nil
+acsc23-evalbox,pwn,"k1R4, fr1gh7, DarkKnight, spektre",2023-02-26 02:55:11.874000
+acsc23-10av,web,"Z_Pacifist, Av4nth1ka, L0xm1, Aneesh, alfin, Lu513n, sk4d",Nil
+acsc23-suscipher,crypto,"DhN, LS, chandu-kona",Nil
+acsc23-corrupted,crypto,"DhN, LS, Hisoka, Abhishek Bharadwaj, victim1307",Nil
+acsc23-dualsignaturealgorithm,crypto,"DhN, LS, Hisoka, victim1307, chandu-kona",Nil
+acsc23-easyssti,web,"Lu513n, Aneesh, sk4d, Z_Pacifist, alfin, L0xm1",2023-02-25 20:39:26.235000
+acsc23-check_number_63,crypto,"chandu-kona, DhN",2023-02-26 05:56:45.994000
+acsc23-pcap-2,forensics,"Azr43lKn1ght, w3!rd5h4rk, nandita sangeeth, stuxn3t, g4rud4",Nil
+acsc23-repwn,pwn,"k1R4, DarkKnight, Ritvik, spektre",2023-02-26 01:07:50.182000
+acsc23-secret,pwn,"k1R4, fr1gh7, spektre, DarkKnight, sourag, shravya, Ritvik",Nil
+acsc23-snukebird,pwn,"fr1gh7, DarkKnight, spektre",2023-02-25 16:09:18.990000
+acsc23-ngo,reverse,"Ad0lphus, r3x, Freakston, Barla Abhishek, k1n0r4, AmunRha",2023-02-26 05:41:51.189000
+acsc23-codemaster_dart,web,"Z_Pacifist, sk4d, L0xm1, Av4nth1ka, alfin, Aneesh, Lu513n",Nil
+acsc23-hardware_is_not_so_hard,misc,"Azr43lKn1ght, w3!rd5h4rk, nandita sangeeth",Nil
+acsc23-pyso,reverse,"retr0ds, k1n0r4, AmunRha",Nil
+acsc23-gotion,web,"Z_Pacifist, L0xm1, alfin, Aneesh, Av4nth1ka, Lu513n, sk4d",Nil
+acsc23-arduino,misc,"Azr43lKn1ght, fr1gh7, w3!rd5h4rk, Z_Pacifist, spektre, DhN, k1R4, KⒶꓘ",Nil

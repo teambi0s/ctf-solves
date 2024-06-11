@@ -1,0 +1,26 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+infosecctf23-exclusive,['reverse'],"k1n0r4, retr0ds",2023-03-18 10:19:55.131000
+infosecctf23-riv,['crypto'],"dhN, victim1307",2023-03-18 10:07:37.657000
+infosecctf23-gold,['crypto'],"dhN, victim1307",2023-03-18 10:21:53.218000
+infosecctf23-magic_byte5,['forensics'],"stuxn3t, w3!rd5h4rk",2023-03-18 10:59:39.271000
+infosecctf23-out_of_sight,['forensics'],"w3!rd5h4rk, Azr43lKn1ght",2023-03-18 11:08:12.795000
+infosecctf23-easy_temp,['web'],"Av4nth1ka, L0xm1",2023-03-18 11:24:49.733000
+infosecctf23-ph0n3,['forensics'],stuxn3t,2023-03-18 12:19:23.911000
+infosecctf23-xerox,['forensics'],stuxn3t,2023-03-18 12:02:05.363000
+infosecctf23-double_or_nothing,['crypto'],"victim1307, dhN",2023-03-18 11:11:10.963000
+infosecctf23-silly_freemason,['crypto'],"victim1307, victim1307",2023-03-18 11:09:49.074000
+infosecctf23-t_jungle,['web'],L0xm1,2023-03-18 11:24:35.987000
+infosecctf23-tw1ns,['forensics'],"Azr43lKn1ght, w3!rd5h4rk, sp3p3x",2023-03-18 13:17:37.826000
+infosecctf23-coolpyc,['reverse'],th3mech4n1c,2023-03-18 13:31:10.759000
+infosecctf23-otp_slayer,['crypto'],"Aneesh, drunken_betch",2023-03-18 16:37:26.882000
+infosecctf23-ipad,['crypto'],"victim1307, dhN",2023-03-18 12:24:07.608000
+infosecctf23-memelord,['web'],"Z_Pacifist, L0xm1, Av4nth1ka",2023-03-18 14:40:09.185000
+infosecctf23-anonymax,['web'],L0xm1,2023-03-18 12:20:26.826000
+infosecctf23-decryptor,['reverse'],"dhN, victim1307, w3!rd5h4rk, retr0ds, k1n0r4, drunken_betch, jarvis",2023-03-18 15:37:25.785000
+infosecctf23-evil_access,['reverse'],"drunken_betch, victim1307",2023-03-18 19:24:42.760000
+infosecctf23-rooter,"['misc', 'pentest']","dhN, retr0ds, AmunRha, drunken_betch, k1n0r4",2023-03-19 00:10:05.834000
+infosecctf23-es-es-pin,"['misc', 'pentest']","drunken_betch, AmunRha, k1n0r4, retr0ds, dhN",2023-03-19 00:17:29.691000
+infosecctf23-asm,['reverse'],"AmunRha, retr0ds, k1n0r4",2023-03-18 22:43:45.032000
+infosecctf23-rick_secrets,['web'],"Lu513n, Z_Pacifist, Aneesh, sk4d, L0xm1",2023-03-18 19:32:14.977000
+infosecctf23-cv_pwner,['web'],"Z_Pacifist, L0xm1, Av4nth1ka",2023-03-18 15:37:49.046000
+infosecctf23-extreme,['web'],"Lu513n, sk4d, Aneesh, L0xm1",2023-03-18 19:15:17.072000

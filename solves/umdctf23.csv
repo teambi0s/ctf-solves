@@ -1,0 +1,43 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+umdctf23-mirror_unknown,['forensics'],sp3p3x,2023-04-29 14:58:37.087000
+umdctf23-fire_type_pokemon_only,['forensics'],"sp3p3x, Azr43lKn1ght, w3!rd5h4rk",2023-04-29 17:51:15.364000
+umdctf23-straight_outta_scif,['forensics'],"Azr43lKn1ght, w3!rd5h4rk, g4rud4, Jl, gh0stkn1ght, B1u33",Nil
+umdctf23-no352,['forensics'],gh0stkn1ght,2023-04-29 16:57:31.033000
+umdctf23-welcome_to_python,['reverse'],"Sherlock Cheezu, Freakston, retr0ds",2023-04-29 15:33:04.376000
+umdctf23-youwantmetorunwhat,['pwn'],"k1R4, fr1gh7, spektre, rori, 1515",Nil
+umdctf23-pokemon_game,['pwn'],"k1R4, rori, tourpran, fr1gh7, spektre",2023-04-30 16:31:10.170000
+umdctf23-bbfmspmss,['pwn'],"k1R4, spektre, 1515",Nil
+umdctf23-buttlikey,['reverse'],"Freakston, retr0ds, Sherlock Cheezu, th3mech4n1c",Nil
+umdctf23-pokecomms,['crypto'],Sans,2023-04-29 14:30:30.312000
+umdctf23-cbc-mac1,['crypto'],Sans,2023-04-29 15:32:00.409000
+umdctf23-noisy-bits,['crypto'],"Sans, d1sc0, Hisoka",2023-04-30 22:17:06.849000
+umdctf23-hidden-message,['crypto'],"th3mech4n1c, Sherlock Cheezu, Sans",2023-04-30 14:54:46.523000
+umdctf23-reduce-thyself,['crypto'],"Sans, victim1307, Hisoka",Nil
+umdctf23-ekans,['crypto'],"Sans, Hisoka, APN, d1sc0, Abhishek Bharadwaj",Nil
+umdctf23-eeveelutions,['crypto'],"Sans, Hisoka, d1sc0, APN",Nil
+umdctf23-cbc-mac2,['crypto'],Sans,Nil
+umdctf23-caterpie,['crypto'],"Sans, Hisoka, d1sc0, APN",Nil
+umdctf23-bulbeuler,['crypto'],Hisoka,2023-04-29 20:25:20.331000
+umdctf23-aes-tr,['crypto'],Sans,Nil
+umdctf23-adi-shamir,['crypto'],"Sans, Hisoka, d1sc0, APN",Nil
+umdctf23-lets-catch-up,['crypto'],"Sans, d1sc0, Hisoka, APN",Nil
+umdctf23-ports,['misc'],"Azr43lKn1ght, sp3p3x, w3!rd5h4rk",2023-04-30 12:53:49.627000
+umdctf23-terps_ticketing_system,['web'],"Winters, Luc1f3r",2023-04-29 18:20:19.356000
+umdctf23-pop_calc,['web'],Winters,2023-04-29 15:55:53.599000
+umdctf23-notsogeo,['web'],"Winters, Z_Pacifist, AdithyaRaj, Lu513n, alfin, yadhu, Aneesh",Nil
+umdctf23-homework_render,['web'],"Winters, sk4d, Z_Pacifist, AdithyaRaj, Lu513n, alfin, yadhu, Aneesh",Nil
+umdctf23-i_heart_wasm,['web'],"Winters, sk4d, Z_Pacifist, Lu513n, alfin, 4sh, Aneesh",Nil
+umdctf23-playtime,['reverse'],"th3mech4n1c, retr0ds, Ad0lphus",Nil
+umdctf23-cleffa,['reverse'],"Sherlock Cheezu, retr0ds, th3mech4n1c",Nil
+umdctf23-intro_c,['reverse'],"Sherlock Cheezu, retr0ds, th3mech4n1c",2023-04-30 12:02:16.328000
+umdctf23-whos_that_pokemon,['android'],drunken_betch,2023-04-29 17:19:53.115000
+umdctf23-tcc1,['misc'],"Azr43lKn1ght, w3!rd5h4rk",2023-04-29 17:18:47.925000
+umdctf23-pokeball_escape,['android'],drunken_betch,2023-04-29 17:34:28.022000
+umdctf23-flamecamp,['android'],drunken_betch,Nil
+umdctf23-gonemissing2,['misc'],"B1u33, w3!rd5h4rk, Azr43lKn1ght",2023-04-29 21:51:39.009000
+umdctf23-yara_trainer_gym,['forensics'],gh0stkn1ght,Nil
+umdctf23-telekinetic-warfare,['forensics'],"sp3p3x, w3!rd5h4rk, B1u33, gh0stkn1ght",Nil
+umdctf23-doctors_hate_him,['forensics'],w3!rd5h4rk,Nil
+umdctf23-beep-boop,['hardware'],"Aneesh, Lu513n",2023-04-30 16:49:27.110000
+umdctf23-jnitorino,['android'],drunken_betch,2023-04-30 19:06:45.003000
+umdctf23-splash,['pwn'],1515,2023-04-30 19:41:35.312000

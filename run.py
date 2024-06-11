@@ -1,0 +1,56 @@
+import os
+import pickle
+import csv
+
+filenames = os.listdir('solves/')
+filenames = ['solves/'+i for i in filenames]
+    
+row_set = set()    
+for file in filenames:
+    for line in open(file).readlines():
+        row_set.add(line.strip())
+with open('allsolves.csv','w') as f:
+    for row in row_set:
+        if row.endswith('000'):
+            f.write(row+'\n')
+            
+counts = dict()
+solves_set = set()
+for file in filenames:
+    x = open(file).readlines()
+    csv_reader = csv.reader(x, delimiter=',')
+    for row in csv_reader:
+        if row[-1].endswith('000'):
+            solves_set.add(','.join(row))
+            for username in [i.strip() for i in row[2].split(',')]:
+                if username not in counts:
+                    counts[username] = 0
+                counts[username] += 1
+
+solves = dict(sorted(counts.items(), key=lambda item: item[1], reverse=True))
+
+while True:
+    ch = input("1. User solves\n2. All solves\n3. Exit\nEnter choice: ")
+    if ch == '1':
+        inp = input("Save to file? (y/n): ")
+        if inp.lower() == 'y':
+            csv_writer = csv.writer(open('usersolves.csv','w'), delimiter=',')
+        csv_reader = csv.reader(open('allsolves.csv').readlines(), delimiter=',')
+        name = input("Enter name: ")
+        count = 0
+        for row in csv_reader:
+            if name.lower() in [r.lower() for r in row[2].split(', ')]:
+                if inp.lower() == 'y':
+                    csv_writer.writerow(row)
+                row_ = [i for i in row]
+                row_[2] = row_[2].replace(name, f"\033[1;31;40m{name}\033[0m")
+                print(' | '.join(row_))
+                count+=1
+        print("Total solves:",count)
+    elif ch == '2':
+        for i,j in solves.items():
+            print(i,j)
+    elif ch == '3':
+        break
+    else:
+        print("Invalid choice")

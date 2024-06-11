@@ -1,0 +1,37 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+angstromctf23-physics_hw,['misc'],sp3p3x,2023-04-22 09:12:59.821000
+angstromctf23-admiral_shark,['misc'],"sp3p3x, w3!rd5h4rk",2023-04-22 09:18:15.117000
+angstromctf23-meow,['misc'],sp3p3x,2023-04-22 09:13:19.824000
+angstromctf23-checkers,['reverse'],th3mech4n1c,2023-04-22 09:50:44.887000
+angstromctf23-zaza,['reverse'],"th3mech4n1c, Sherlock Cheezu",2023-04-22 10:28:10.540000
+angstromctf23-simon_says,['misc'],"Jl, Azr43lKn1ght, sp3p3x",2023-04-22 18:34:38.072000
+angstromctf23-ranch,['crypto'],APN,2023-04-22 10:11:31.114000
+angstromctf23-queue,['pwn'],rori,2023-04-22 11:15:43.871000
+angstromctf23-gaga,['pwn'],rori,2023-04-22 14:46:31.355000
+angstromctf23-impossible,['crypto'],"dhN, Sans, APN",2023-04-22 12:52:49.283000
+angstromctf23-widget,['pwn'],"tourpran, fr1gh7",2023-04-22 17:21:46.302000
+angstromctf23-lazy_lagrange,['crypto'],"LS, Hisoka, Sans, APN",2023-04-23 22:29:56.383000
+angstromctf23-slack,['pwn'],tourpran,2023-04-25 13:02:17.530000
+angstromctf23-noleek,['pwn'],"k1R4, tourpran",2023-04-26 19:06:21.322000
+angstromctf23-leek,['pwn'],rori,Nil
+angstromctf23-leak,['pwn'],tourpran,2023-04-22 11:15:02.482000
+angstromctf23-better_me,['misc'],rori,2023-04-22 17:22:59.044000
+angstromctf23-bananas,['reverse'],"Sherlock Cheezu, th3mech4n1c, shinobu, R3x",2023-04-22 15:34:33.815000
+angstromctf23-shortcircuit,['web'],Lu513n,2023-04-22 11:21:39.906000
+angstromctf23-directory,['web'],Lu513n,2023-04-22 11:21:36.748000
+angstromctf23-obligatory,['misc'],"gh0stkn1ght, Jl, sp3p3x, w3!rd5h4rk, Azr43lKn1ght, rori, B1u33, Aneesh, tourpran, Sans, LS, Hisoka, d1sc0, spektre, L0xm1, alfin, sk4d, fr1gh7, k1R4",Nil
+angstromctf23-royal_society_of_arts,['crypto'],APN,Nil
+angstromctf23-royal_society_of_arts_2,['crypto'],victim1307,2023-04-22 11:48:37.767000
+angstromctf23-hallmark,['web'],"AdithyaRaj, Winters",2023-04-22 17:04:51.896000
+angstromctf23-royal_socity_of_arts,['crypto'],d1sc0,2023-04-22 11:50:14.014000
+angstromctf23-millionaires,['crypto'],"APN, Sans, d1sc0, dhN, Hisoka",Nil
+angstromctf23-snap_circuits,['crypto'],"APN, Sans, Hisoka, LS, d1sc0, dhN",Nil
+angstromctf23-moon,['reverse'],"th3mech4n1c, k1n0r4, Barla Abhishek, Sherlock Cheezu, retr0ds, r3x",Nil
+angstromctf23-broken_login,['web'],Aneesh,2023-04-22 13:23:51.871000
+angstromctf23-ti,['reverse'],"th3mech4n1c, Sherlock Cheezu",Nil
+angstromctf23-tau_as_a_service,['crypto'],"APN, Sans, Hisoka, LS",Nil
+angstromctf23-filestore,['web'],"Winters, L0xm1, Cap-k, Z_Pacifist, Av4nth1ka, sk4d, AdithyaRaj, Aneesh, Lu513n, alfin, Az3z3l, yadhu",Nil
+angstromctf23-wordsearch,['reverse'],"th3mech4n1c, retr0ds, shinobu, k1n0r4",Nil
+angstromctf23-uncertainty,['reverse'],th3mech4n1c,Nil
+angstromctf23-celeste,['web'],L0xm1,2023-04-23 11:34:53.685000
+angstromctf23-giza,['reverse'],"Sherlock Cheezu, shinobu, th3mech4n1c",Nil

@@ -1,0 +1,63 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+htbcactf24-tutorial,['pwn'],"silence_, justk1r4",2024-03-09 18:47:10.671000
+htbcactf24-delulu,['pwn'],"silence_, heartstoller",2024-03-09 19:20:02.703000
+htbcactf24-writing-on-the-wall,['pwn'],"silence_, justk1r4",2024-03-09 19:14:49.257000
+htbcactf24-boxcutter,['reverse'],"the.m3chanic, sherlockcheezu",2024-03-10 14:54:52.513000
+htbcactf24-packedaway,['reverse'],"the.m3chanic, sherlockcheezu",2024-03-10 14:55:08.553000
+htbcactf24-lootstash,['reverse'],"the.m3chanic, sherlockcheezu",2024-03-10 14:54:08.490000
+htbcactf24-followthepath,['reverse'],sherlockcheezu,2024-03-10 02:14:49.455000
+htbcactf24-pet-champion,['pwn'],"silence_, b4tmite, heartstoller",2024-03-09 19:43:38.294000
+htbcactf24-flagcommand,['web'],"k0w4lsk1_, luc_f3r, alfin, exigent07, r0h1t.pxh",2024-03-09 19:20:42.642000
+htbcactf24-it_has_begun,['forensics'],"its_me_ask, j0dh7",2024-03-09 20:04:31.690000
+htbcactf24-an_unusual_sighting,['forensics'],gh0stkn1ght,2024-03-12 17:02:56.956000
+htbcactf24-urgent,['forensics'],"j0dh7, its_me_ask",2024-03-09 19:36:41.169000
+htbcactf24-pursue_the_tracks,['forensics'],"its_me_ask, j0dh7, __m1m1__",2024-03-09 21:31:29.033000
+htbcactf24-data_siege,['forensics'],"its_me_ask, j0dh7, __m1m1__",2024-03-11 17:08:05.400000
+htbcactf24-fake_boost,['forensics'],"its_me_ask, j0dh7, __m1m1__",2024-03-11 17:05:27.942000
+htbcactf24-korp-terminal,['web'],"exigent07, k0w4lsk1_, alfin, luc_f3r, r0h1t.pxh",2024-03-09 20:13:59.466000
+htbcactf24-timekorp,['web'],"k0w4lsk1_, exigent07, alfin, luc_f3r, r0h1t.pxh",2024-03-09 20:35:29.402000
+htbcactf24-labyrinth,['web'],"r0h1t.pxh, k0w4lsk1_, exigent07",2024-03-10 13:26:21.826000
+htbcactf24-testimonial,['web'],z_pacifist,2024-03-11 20:20:52.312000
+htbcactf24-locktalk,['web'],"k0w4lsk1_, alfin, luc_f3r, exigent07, r0h1t.pxh",2024-03-11 17:52:50.054000
+htbcactf24-dynastic,['crypto'],aerosol.,2024-03-09 20:20:59.588000
+htbcactf24-makeshift,['crypto'],aerosol.,2024-03-09 20:26:55.024000
+htbcactf24-iced_tea,['crypto'],aerosol.,2024-03-09 21:57:06.246000
+htbcactf24-gloater,['pwn'],"_r0r1_, justk1r4",2024-03-10 09:24:47.115000
+htbcactf24-blunt,['crypto'],aerosol.,2024-03-09 20:38:30.661000
+htbcactf24-arranged,['crypto'],"ls.exe, aerosol., sans8475",2024-03-11 17:35:03.455000
+htbcactf24-partial_tenacity,['crypto'],"ls.exe, aerosol., hisoka.fr",2024-03-12 22:01:45.604000
+htbcactf24-permuted,['crypto'],"retr0ds, aerosol., im._.a.p, arch_zero, sans8475, ___apn___, ls.exe, hisoka.fr",Nil
+htbcactf24-tsayaki,['crypto'],"retr0ds, aerosol., arch_zero, sans8475, ___apn___, hisoka.fr, ls.exe, spektr.e",Nil
+htbcactf24-rot128,['crypto'],"retr0ds, heartstoller, silence_, aerosol., im._.a.p, arch_zero, ___apn___, sans8475, hisoka.fr, spektr.e",Nil
+htbcactf24-crushing,['reverse'],"retr0ds, arch_zero, k1n0r4, tricky_ninja",Nil
+htbcactf24-game_invitation,['forensics'],"5h4rrk, its_me_ask, j0dh7, __m1m1__",2024-03-10 14:55:46.157000
+htbcactf24-confinement,['forensics'],"azr43lkn1ght, 5h4rrk, its_me_ask, j0dh7, __m1m1__",2024-03-12 20:23:49.626000
+htbcactf24-rocket-blaster,['pwn'],"silence_, b4tmite, heartstoller",2024-03-09 20:02:06.081000
+htbcactf24-deathnote,['pwn'],"b4tmite, silence_, justk1r4, heartstoller, _r0r1_",2024-03-10 12:35:29.231000
+htbcactf24-sound-of-silence,['pwn'],"silence_, justk1r4, b4tmite, heartstoller",2024-03-09 20:57:01.670000
+htbcactf24-serialflow,['web'],"l0x.me, alfin, ma1f0y_",2024-03-11 20:29:28.539000
+htbcactf24-percetron,['web'],"alfin, ma1f0y_, r0h1t.pxh, exigent07, k0w4lsk1_, avntka, l0x.me, z_pacifist, winters0x168, luc_f3r, lu513n, sk4d",Nil
+htbcactf24-quickscan,['reverse'],the.m3chanic,2024-03-10 01:15:31.127000
+htbcactf24-oracle,['pwn'],"silence_, justk1r4, b4tmite, heartstoller",2024-03-10 21:17:55.349000
+htbcactf24-maze-of-mist,['pwn'],"justk1r4, silence_, tourpran",2024-03-12 00:53:40.178000
+htbcactf24-oblique_final,['forensics'],"azr43lkn1ght, 5h4rrk, j0dh7, its_me_ask, __m1m1__",Nil
+htbcactf24-character,['misc'],"b4tmite, justk1r4, silence_",2024-03-10 13:16:40.780000
+htbcactf24-stop_drop_roll,['misc'],"b4tmite, silence_",2024-03-10 13:17:41.801000
+htbcactf24-metagaming,['reverse'],"sherlockcheezu, the.m3chanic, k1n0r4, spektr.e, tricky_ninja, retr0ds, heartstoller, b4tmite, aerosol., silence_",Nil
+htbcactf24-unbreakable,['misc'],"silence_, heartstoller, justk1r4",2024-03-10 14:55:44.170000
+htbcactf24-phreaky,['forensics'],"its_me_ask, j0dh7, __m1m1__, silence_",2024-03-10 16:50:07.425000
+htbcactf24-primary_knowledge,['crypto'],"silence_, aerosol.",2024-03-10 20:38:12.372000
+htbcactf24-russian_roulette,['blockchain'],"aerosol., silence_, heartstoller",2024-03-11 18:19:58.258000
+htbcactf24-lucky_faucet,['blockchain'],"aerosol., silence_",2024-03-11 18:53:44.001000
+htbcactf24-recovery,['blockchain'],"silence_, heartstoller, aerosol.",2024-03-12 01:22:22.273000
+htbcactf24-apexsurvive,['web'],"l0x.me, z_pacifist, avntka, luc_f3r, alfin, ma1f0y_, exigent07, lu513n, sk4d",Nil
+htbcactf24-flecks_of_gold,['reverse'],tricky_ninja,Nil
+htbcactf24-multidigilingual,['misc'],"z_pacifist, heartstoller, silence_",2024-03-12 17:59:57.183000
+htbcactf24-the_ledger_heist,['blockchain'],"silence_, b4tmite, heartstoller, justk1r4, hisoka.fr, aerosol.",Nil
+htbcactf24-cubical_riddle,['misc'],justk1r4,2024-03-12 18:59:08.667000
+htbcactf24-the_prom,['hardware'],"silence_, spektr.e, z_pacifist, justk1r4",2024-03-12 23:34:22.062000
+htbcactf24-were_pickle_phreaks,['misc'],"z_pacifist, l0x.me, justk1r4, silence_",2024-03-13 23:35:47.109000
+htbcactf24-colored_squares,['misc'],"its_me_ask, __m1m1__, j0dh7, silence_, heartstoller, justk1r4, spektr.e, b4tmite, k0w4lsk1_, z_pacifist",Nil
+htbcactf24-pathofsurvival,['misc'],"ls.exe, luc_f3r, r0h1t.pxh, k0w4lsk1_",2024-03-14 00:10:12.465000
+htbcactf24-flashing_logs,['hardware'],"silence_, justk1r4, spektr.e, heartstoller, b4tmite, z_pacifist",Nil
+htbcactf24-quantum_conundrum,['misc'],"silence_, b4tmite, heartstoller, justk1r4, z_pacifist, hisoka.fr, spektr.e, aerosol., tricky_ninja",Nil

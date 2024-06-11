@@ -1,0 +1,41 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+backdoorctf23-beginner-menace,['forensics'],jl_24,2023-12-16 17:40:53.011000
+backdoorctf23-mini_rsa,['crypto'],hisoka.fr,2023-12-16 17:48:27.897000
+backdoorctf23-php_sucks,['web'],"luc_f3r, winters0x168, z_pacifist",2023-12-16 18:09:58.048000
+backdoorctf23-headache,['misc'],"sp3p3x, jarvis",2023-12-16 17:47:35.620000
+backdoorctf23-knapsack,['crypto'],"ls.exe, hisoka.fr",2023-12-16 18:56:33.946000
+backdoorctf23-secret_of_j4ck4l,['web'],z_pacifist,2023-12-16 18:09:02.816000
+backdoorctf23-indecipherable-image-or-is-it,['misc'],"jl_24, ls.exe, sp3p3x, gh0stkn1ght",2023-12-17 00:30:41.441000
+backdoorctf23-cheat_code,['misc'],"gh0stkn1ght, im._.a.p, hrippi.x_, jl_24, sp3p3x, azr43lkn1ght, spektr.e, justk1r4",Nil
+backdoorctf23-secret_door,['reverse'],"retr0ds, sherlockcheezu, k1n0r4",2023-12-16 23:06:45.013000
+backdoorctf23-prsa,['crypto'],"Sans, im._.a.p",2023-12-16 19:44:46.115000
+backdoorctf23-armoured-notes,['web'],"winters0x168, luc_f3r, z_pacifist, l0x.me, avntka",2023-12-17 00:37:30.013000
+backdoorctf23-too-many-admins,['web'],"luc_f3r, winters0x168, z_pacifist",2023-12-16 18:22:23.024000
+backdoorctf23-secret-of-kurama,['misc'],"z_pacifist, winters0x168, sp3p3x",2023-12-16 21:42:55.609000
+backdoorctf23-forenscript,['misc'],"hrippi.x_, sp3p3x",2023-12-16 18:57:26.903000
+backdoorctf23-sonic-hide_and-seek,['forensics'],"gh0stkn1ght, sp3p3x, jl_24, sh.4rk",2023-12-16 22:12:30.962000
+backdoorctf23-the-shakespearean-mouse,['forensics'],"gh0stkn1ght, sp3p3x, hrippi.x_",2023-12-17 22:05:53.174000
+backdoorctf23-chatbot,['web'],"z_pacifist, l0x.me, avntka",2023-12-16 19:24:08.211000
+backdoorctf23-babyebpf,['reverse'],"the.m3chanic, sherlockcheezu",2023-12-17 10:58:42.222000
+backdoorctf23-space-war,['web'],"winters0x168, luc_f3r, z_pacifist, l0x.me, avntka",2023-12-16 23:56:44.300000
+backdoorctf23-pizzeria,['pwn'],"justk1r4, _r0r1_, jarvis",2023-12-16 20:10:56.931000
+backdoorctf23-konsolidator,['pwn'],_r0r1_,2023-12-16 19:41:49.045000
+backdoorctf23-curvy_curves,['crypto'],Sans,2023-12-17 14:30:27.955000
+backdoorctf23-fruit-basket,['misc'],"jl_24, sp3p3x",2023-12-16 22:29:53.141000
+backdoorctf23-slaydroid,['reverse'],"retr0ds, amunrha",2023-12-16 23:04:20.720000
+backdoorctf23-gtgfast,['reverse'],"the.m3chanic, sherlockcheezu",2023-12-17 14:46:10.906000
+backdoorctf23-baby_formatter,['pwn'],ath3n1x,2023-12-17 15:46:58.187000
+backdoorctf23-escape-the-room,['misc'],"_r0r1_, sp3p3x, jl_24",2023-12-17 00:02:10.209000
+backdoorctf23-open_sesame,['reverse'],"retr0ds, k1n0r4",2023-12-16 23:09:22.158000
+backdoorctf23-master_formatter,['pwn'],_r0r1_,2023-12-17 10:59:27.074000
+backdoorctf23-mini_rsa_v2,['crypto'],___apn___,2023-12-17 11:42:39.823000
+backdoorctf23-safe_curvy_curve,['crypto'],"Sans, ___apn___",2023-12-17 16:19:12.426000
+backdoorctf23-prove_me_wrong,['crypto'],"Sans, im._.a.p, hisoka.fr, ls.exe, ___apn___, abhishekbharadwaj",Nil
+backdoorctf23-rocket_explorer,['web'],"z_pacifist, winters0x168",2023-12-18 14:58:50.599000
+backdoorctf23-blowcode,['reverse'],"the.m3chanic, sherlockcheezu, justk1r4, k1n0r4, amunrha, retr0ds",Nil
+backdoorctf23-empdb,['pwn'],justk1r4,2023-12-17 19:03:47.018000
+backdoorctf23-collagion,['crypto'],"ls.exe, Sans, ___apn___",2023-12-17 23:06:24.832000
+backdoorctf23-rebel,['crypto'],"Sans, ls.exe, ___apn___, hisoka.fr, im._.a.p, justk1r4",Nil
+backdoorctf23-secure_matrix_transmissions,['crypto'],"hisoka.fr, ls.exe, ___apn___",2023-12-18 16:12:06.579000
+backdoorctf23-halo-_ack_again,['misc'],"im._.a.p, z_pacifist, justk1r4, sp3p3x, _r0r1_, jl_24, hrippi.x_",Nil
+backdoorctf23-drunk,['forensics'],"gh0stkn1ght, sp3p3x, jl_24, sh.4rk, hrippi.x_, azr43lkn1ght",Nil

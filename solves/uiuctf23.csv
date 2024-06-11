@@ -1,0 +1,17 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+uiuctf23-peanut-xss,['web'],"lu513n, alfin, l0x.me",2023-07-02 14:59:12.807000
+uiuctf23-chainmail,['pwn'],"tourpran, justk1r4, _r0r1_, ath3n1x, fr1gh7",Nil
+uiuctf23-zapping-a-setuid-1,['pwn'],"tourpran, justk1r4, _r0r1_, ath3n1x, fr1gh7, spektr.e",Nil
+uiuctf23-virophage,['pwn'],"tourpran, justk1r4, _r0r1_, ath3n1x, fr1gh7, spektr.e",Nil
+uiuctf23-zapping-a-setuid-2,['pwn'],"tourpran, justk1r4, _r0r1_, ath3n1x, fr1gh7, spektr.e",Nil
+uiuctf23-adminplz,['web'],"win.ters, lu513n, alfin, z_pacifist, luc_f3r",Nil
+uiuctf23-morphing-time,['crypto'],"ls.exe, hisoka.fr",2023-07-01 13:47:11.380000
+uiuctf23-group-projection,['crypto'],hisoka.fr,2023-07-01 14:30:11.755000
+uiuctf23-crack_the_safe,['crypto'],"ls.exe, hisoka.fr",2023-07-02 18:12:18.365000
+uiuctf23-vmwhere1,['reverse'],"retr0ds, k1n0r4",2023-07-01 13:44:08.302000
+uiuctf23-finding_artifacts_1,['osint'],"azr43lkn1ght, _b1u33, jl911",Nil
+uiuctf23-three_time_pad,['crypto'],"_d1sc0, ___apn___",2023-07-01 12:02:47.863000
+uiuctf23-at_home,['crypto'],___apn___,2023-07-01 14:09:33.517000
+uiuctf23-whats_for_dinner,['misc'],"dhn5280, ___apn___, _d1sc0, jl911, gh0stkn1ght, Sans",Nil
+uiuctf23-vmwhere2,['reverse'],"the_mechanic__, amunrha",2023-07-03 03:53:18.128000
+uiuctf23-futuredisk,['web'],"lu513n, alfin, z_pacifist, ma1f0y_, luc_f3r",Nil

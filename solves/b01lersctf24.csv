@@ -1,0 +1,38 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+b01lersctf24-anysecondnow,['reverse'],sherlockcheezu,2024-04-13 09:38:39.587000
+b01lersctf24-shall_we_play_a_game,['pwn'],"b4tmite, silence_",2024-04-13 09:49:38.188000
+b01lersctf24-choose_the_param,['crypto'],hisoka.fr,2024-04-13 12:31:40.817000
+b01lersctf24-easy-note,['pwn'],tourpran,2024-04-13 13:21:23.378000
+b01lersctf24-b01ler-ad,['web'],"exigent07, z_pacifist",2024-04-13 12:09:46.326000
+b01lersctf24-wabash,['misc'],"r0h1t.pxh, z_pacifist, k0w4lsk1_, silence_, aerosol., b4tmite, __m1m1__, j0dh7",2024-04-13 12:22:54.014000
+b01lersctf24-bash_with_cat,['misc'],"r0h1t.pxh, z_pacifist, hrippi.x_, k0w4lsk1_, silence_, b4tmite, j0dh7",2024-04-13 12:20:39.595000
+b01lersctf24-arm-and-leg,['pwn'],"_r0r1_, heartstoller, b4tmite, silence_",2024-04-14 06:56:56.046000
+b01lersctf24-basketball-scholar,['misc'],"jl_24, gh0stkn1ght, 5h4rrk",2024-04-13 15:38:41.655000
+b01lersctf24-js-safe,['reverse'],tricky_ninja,2024-04-13 12:15:50.706000
+b01lersctf24-seeing-red,['pwn'],"silence_, heartstoller",2024-04-13 12:16:41.252000
+b01lersctf24-half_big_rsa,['crypto'],"ls.exe, aerosol., arch_zero, hisoka.fr",2024-04-13 14:33:48.836000
+b01lersctf24-chest-mix,['misc'],"justk1r4, tricky_ninja, silence_, j0dh7",2024-04-13 14:39:00.013000
+b01lersctf24-mixtpeailbc,['pwn'],justk1r4,2024-04-13 23:27:53.444000
+b01lersctf24-imagehost,['web'],"luc_f3r, z_pacifist, r0h17h",2024-04-13 14:50:17.926000
+b01lersctf24-catch-me-if-you-can,['reverse'],"retr0ds, ravindra0605_91248, tricky_ninja, 5h4rrk, k1n0r4, the.m3chanic, hisoka.fr, ls.exe, gh0stkn1ght, sans8475, ___apn___, sherlockcheezu",Nil
+b01lersctf24-fetus_rsa,['crypto'],aerosol.,2024-04-13 20:01:47.363000
+b01lersctf24-zero-to-hero,['pwn'],"tourpran, silence_",2024-04-13 16:09:12.831000
+b01lersctf24-catch-me,['reverse'],"tricky_ninja, sherlockcheezu",Nil
+b01lersctf24-b01lers_casino,['web'],"alfin, z_pacifist, luc_f3r",2024-04-13 17:30:18.917000
+b01lersctf24-b01lersparlay,['misc'],z_pacifist,2024-04-14 11:04:53.612000
+b01lersctf24-mixtape,['reverse'],amunrha,2024-04-15 03:12:49.761000
+b01lersctf24-3-city-elves-writeups,['web'],"z_pacifist, alfin",2024-04-13 19:34:03.941000
+b01lersctf24-ghost-note,['web'],"k0w4lsk1_, r0h1t.pxh, exigent07, z_pacifist, avntka, alfin, lu513n, 570rmbreaker, ma1f0y_, l0x.me, luc_f3r, winters0x168",Nil
+b01lersctf24-count_the_counter,['crypto'],"___apn___, hisoka.fr, ls.exe",2024-04-13 20:50:04.735000
+b01lersctf24-pwnhub,['web'],"z_pacifist, alfin, luc_f3r",2024-04-13 23:22:11.192000
+b01lersctf24-libofphp,['web'],"lu513n, ma1f0y_",2024-04-13 20:50:27.831000
+b01lersctf24-burgercoin,['blockchain'],"aerosol., silence_, j0dh7",2024-04-14 18:28:29.587000
+b01lersctf24-use-cache,['web'],"z_pacifist, alfin, l0x.me, luc_f3r, ma1f0y_, lu513n, sk4d, winters0x168, avntka, .d_pro",Nil
+b01lersctf24-schnore,['crypto'],sans8475,2024-04-14 01:05:40.212000
+b01lersctf24-shamir_for_dummies,['crypto'],"hisoka.fr, sans8475, ls.exe",2024-04-14 23:46:04.690000
+b01lersctf24-texnically,['misc'],"lu513n, alfin, ma1f0y_, k0w4lsk1_, silence_, z_pacifist, j0dh7, __m1m1__, luc_f3r",Nil
+b01lersctf24-b02lers,['misc'],"k0w4lsk1_, z_pacifist, luc_f3r, l0x.me, j0dh7, __m1m1__, avntka, alfin, silence_, ravindra0605_91248, gh0stkn1ght, _r0r1_, heartstoller, b4tmite, retr0ds, r0h1t.pxh, jl_24, ___apn___, k1n0r4, hisoka.fr",Nil
+b01lersctf24-propagating_counter_block_chaining,['crypto'],"___apn___, arch_zero, sans8475, hisoka.fr",Nil
+b01lersctf24-rc4,['crypto'],"ls.exe, sans8475, hisoka.fr, ___apn___",2024-04-15 00:49:48.769000
+b01lersctf24-cppjail,['misc'],"the.m3chanic, gh0stkn1ght, z_pacifist, jl_24, tourpran, luc_f3r, retr0ds, silence_, k0w4lsk1_, k1n0r4, __m1m1__, j0dh7, _r0r1_",Nil
+b01lersctf24-link,['reverse'],"sherlockcheezu, k1n0r4",2024-04-15 02:15:15.501000

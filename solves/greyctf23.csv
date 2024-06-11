@@ -1,0 +1,27 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+greyctf23-login_bot,['web'],Lu513n,2023-05-19 20:02:45.661000
+greyctf23-ropv,['pwn'],"tourpran, spektre, 1515, k1R4, sourag, fr1gh7",Nil
+greyctf23-beepboop,['misc'],"gh0stkn1ght, sp3p3x, w3!RD5h4rk, Azr43lKn1ght, B1u33, Jl, k1R4, f4lc0n, rori",Nil
+greyctf23-ot,['crypto'],"LS, Sans",2023-05-19 21:24:48.455000
+greyctf23-encrypt,['crypto'],"d1sc0, dhN, LS, Hisoka, Sans",Nil
+greyctf23-plcg,['crypto'],"APN, dhN, Hisoka, Sans, LS",Nil
+greyctf23-baby_web,['web'],"Winters, Luc1f3r",2023-05-19 20:44:01.076000
+greyctf23-microservices,['web'],"Aneesh, Winters, Luc1f3r",2023-05-20 15:13:34.147000
+greyctf23-microservices_2,['web'],Z_Pacifist,2023-05-20 17:32:08.820000
+greyctf23-100_questions,['web'],Lu513n,2023-05-20 15:25:55.952000
+greyctf23-view_my_album,['web'],"sk4d, alfin",2023-05-20 16:05:52.813000
+greyctf23-sort_it_out,['web'],"Winters, Lu513n, Aneesh, sk4d, alfin, L0xm1, Z_Pacifist",Nil
+greyctf23-beeboop2,['misc'],"Jl, gh0stkn1ght, Azr43lKn1ght, B1u33, w3!RD5h4rk",Nil
+greyctf23-crackme2,['reverse'],"Sherlock Cheezu, th3mech4n1c, r3x, AmunRha, retr0ds",Nil
+greyctf23-gotcha,['misc'],"Azr43lKn1ght, f4lc0n, w3!RD5h4rk, sp3p3x",2023-05-20 16:02:08.493000
+greyctf23-encrypt_service,['crypto'],d1sc0,Nil
+greyctf23-encryptservice,['crypto'],"LS, Hisoka",2023-05-19 23:20:55.774000
+greyctf23-vault,['crypto'],"LS, dhN, Hisoka",2023-05-19 23:21:12.622000
+greyctf23-qrsa,['crypto'],"Hisoka, Sans",Nil
+greyctf23-greycat_trial,['crypto'],"APN, Hisoka, LS, dhN, Sans, d1sc0",2023-05-20 18:07:25.568000
+greyctf23-wasm,['reverse'],"th3mech4n1c, Sherlock Cheezu, retr0ds",2023-05-20 23:26:51.289000
+greyctf23-readmeabook,['pwn'],"tourpran, sourag, fr1gh7, rori",Nil
+greyctf23-writemeabook,['pwn'],"tourpran, spektre, sourag, rori, fr1gh7",Nil
+greyctf23-arraystore,['pwn'],tourpran,2023-05-20 00:26:42.823000
+greyctf23-malware_1,['reverse'],"th3mech4n1c, AmunRha, retr0ds, k1n0r4",Nil
+greyctf23-fancy,['crypto'],Sans,Nil

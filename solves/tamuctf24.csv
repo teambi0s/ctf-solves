@@ -1,0 +1,39 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+tamuctf24-reveille-petter,['reverse'],the.m3chanic,2024-04-06 03:56:35.770000
+tamuctf24-corrupted,['forensics'],"__m1m1__, j0dh7, silence_, its_me_ask, jl_24, gh0stkn1ght, azr43lkn1ght, 5h4rrk, sp3p3x, spektr.e",Nil
+tamuctf24-deleted,['forensics'],__m1m1__,2024-04-06 04:59:11.885000
+tamuctf24-alien,['reverse'],the.m3chanic,2024-04-06 05:27:21.605000
+tamuctf24-index,['pwn'],_r0r1_,2024-04-06 09:05:02.351000
+tamuctf24-resistant,['reverse'],the.m3chanic,2024-04-06 07:01:01.507000
+tamuctf24-lost_tourist,['misc'],__m1m1__,2024-04-06 08:13:40.143000
+tamuctf24-forgotten_password,['web'],winters0x168,2024-04-06 08:43:27.823000
+tamuctf24-flipped,['web'],"winters0x168, ___apn___",2024-04-06 09:24:04.527000
+tamuctf24-admin-panel,['pwn'],"heartstoller, silence_",2024-04-06 11:04:30.973000
+tamuctf24-rop,['reverse'],"sherlockcheezu, amunrha, the.m3chanic, sherlockcheezu, ls.exe, tricky_ninja",2024-04-07 23:48:35.764000
+tamuctf24-smooth_signatures,['crypto'],"sans8475, ls.exe",2024-04-06 18:08:11.838000
+tamuctf24-truncated_1,['crypto'],"hisoka.fr, aerosol., ___apn___",2024-04-06 14:55:29.110000
+tamuctf24-criminal,['crypto'],"ls.exe, aerosol., hisoka.fr",2024-04-06 16:43:01.942000
+tamuctf24-cereal,['web'],luc_f3r,2024-04-06 10:36:40.849000
+tamuctf24-fuzzy,['forensics'],"j0dh7, its_me_ask",2024-04-06 12:40:13.125000
+tamuctf24-imposter,['web'],"r0h1t.pxh, z_pacifist, luc_f3r, k0w4lsk1_",2024-04-06 18:42:18.330000
+tamuctf24-smp,['forensics'],"its_me_ask, j0dh7, jl_24, gh0stkn1ght, sp3p3x, 5h4rrk, spektr.e, silence_",Nil
+tamuctf24-mcfs,['forensics'],"its_me_ask, j0dh7, jl_24, gh0stkn1ght, sp3p3x, the.m3chanic, silence_, 5h4rrk, retr0ds, tricky_ninja, aerosol., azr43lkn1ght, sherlockcheezu, spektr.e",Nil
+tamuctf24-janky,['pwn'],"_r0r1_, spektr.e, tourpran",2024-04-06 18:06:05.139000
+tamuctf24-confinement,['pwn'],"heartstoller, spektr.e, silence_, _r0r1_, justk1r4",2024-04-06 22:14:45.591000
+tamuctf24-missing,['misc'],"azr43lkn1ght, j0dh7, its_me_ask",2024-04-06 15:15:41.181000
+tamuctf24-five,['pwn'],"justk1r4, silence_, heartstoller",2024-04-06 17:59:06.269000
+tamuctf24-shrink,['pwn'],"spektr.e, _r0r1_",2024-04-06 12:16:55.135000
+tamuctf24-remote,['web'],"luc_f3r, z_pacifist, lu513n",2024-04-06 18:15:44.487000
+tamuctf24-rift,['pwn'],"silence_, heartstoller",2024-04-06 16:06:41.173000
+tamuctf24-good-emulation,['pwn'],"spektr.e, _r0r1_",2024-04-06 15:32:01.398000
+tamuctf24-volatile,['forensics'],"azr43lkn1ght, 5h4rrk, jl_24, j0dh7, its_me_ask, sp3p3x, spektr.e, silence_, gh0stkn1ght",Nil
+tamuctf24-cracked,['web'],"z_pacifist, luc_f3r, ___apn___, ls.exe",2024-04-06 21:03:36.486000
+tamuctf24-super-lucky,['pwn'],justk1r4,2024-04-06 17:44:54.242000
+tamuctf24-truncated_2,['crypto'],hisoka.fr,2024-04-06 15:08:40.580000
+tamuctf24-ladders,['misc'],"azr43lkn1ght, its_me_ask, j0dh7",2024-04-06 16:14:13.667000
+tamuctf24-pcg,['crypto'],"ls.exe, hisoka.fr",2024-04-06 17:20:49.202000
+tamuctf24-qcg,['crypto'],"sans8475, ___apn___, aerosol., ls.exe, hisoka.fr",Nil
+tamuctf24-emoji_group,['crypto'],"ls.exe, hisoka.fr, aerosol.",2024-04-07 00:28:53.851000
+tamuctf24-scavenging,['misc'],"z_pacifist, justk1r4, spektr.e, alfin, luc_f3r, lu513n, silence_, 570rmbreaker, k0w4lsk1_, ma1f0y_, tr4c3734, r0h1t.pxh",Nil
+tamuctf24-jumbled,['crypto'],ls.exe,2024-04-06 21:26:03.414000
+tamuctf24-over_the_shoulder,['misc'],"570rmbreaker, z_pacifist, silence_, r0h1t.pxh, k0w4lsk1_, alfin",Nil

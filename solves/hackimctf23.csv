@@ -1,0 +1,24 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+hackimctf23-debugger,['web'],alfin,2023-08-19 12:00:07.104000
+hackimctf23-ipfilter,['web'],lu513n,2023-08-19 20:09:49.791000
+hackimctf23-u_do_pee,['misc'],sh.4rk,2023-08-19 14:04:51.518000
+hackimctf23-udopee,['misc'],"jl911, sh.4rk, _b1u33",Nil
+hackimctf23-isee,['misc'],"sh.4rk, _b1u33, jl911, sp3p3x, azr43lkn1ght, lu513n, ma1f0y_, ad0lphus",Nil
+hackimctf23-euclidean_rsa,['crypto'],hisoka.fr,2023-08-19 12:43:05.596000
+hackimctf23-babypwn,['pwn'],spektr.e,2023-08-19 14:37:02.393000
+hackimctf23-juniorpwn,['pwn'],justk1r4,2023-08-19 20:13:38.792000
+hackimctf23-heavensflow,['pwn'],spektr.e,2023-08-19 14:41:17.449000
+hackimctf23-hackthehash,['pwn'],justk1r4,2023-08-19 21:15:35.791000
+hackimctf23-funsafe,['misc'],"sp3p3x, _b1u33, jl911, gh0stkn1ght, azr43lkn1ght, sh.4rk, crum6s, lu513n, ma1f0y_, justk1r4, _r0r1_, tourpran, winters.ggs",Nil
+hackimctf23-movie,['reverse'],"sherlockcheezu, retr0ds",2023-08-19 20:15:36.998000
+hackimctf23-sss,['crypto'],"Sans, ls.exe, ___apn___, 0xd15c0, dhn5280",2023-08-19 23:10:24.142000
+hackimctf23-typicalboss,['web'],"winters.ggs, luc_f3r",2023-08-19 18:04:34.831000
+hackimctf23-colorful,['web'],"luc_f3r, winters.ggs, lu513n",2023-08-19 19:44:22.088000
+hackimctf23-curvy_decryptor,['crypto'],ls.exe,2023-08-20 01:03:09.310000
+hackimctf23-magic_cars,['web'],"winters.ggs, lu513n, luc_f3r, ma1f0y_",2023-08-19 22:05:22.531000
+hackimctf23-loginbytespass,['web'],"lu513n, ma1f0y_",2023-08-19 21:33:09.458000
+hackimctf23-counting,['crypto'],"Sans, ___apn___, dhn5280, victim1307, 0xd15c0, hisoka.fr",Nil
+hackimctf23-curve-decryptor2,['crypto'],Sans,Nil
+hackimctf23-educated_assumption,['misc'],"winters.ggs, ma1f0y_, lu513n, luc_f3r, z_pacifist",Nil
+hackimctf23-curvy_decryptor_2,['crypto'],"ls.exe, 0xd15c0, victim1307, ___apn___",Nil
+hackimctf23-bicycle,['reverse'],"retr0ds, sherlockcheezu",2023-08-20 09:53:52.123000

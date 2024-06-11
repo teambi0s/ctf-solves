@@ -1,0 +1,50 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+amaturectf23-waiting-an-eternity,['web'],win.ters,2023-07-16 09:25:39.429000
+amaturectf23-sanity,['web'],"win.ters, ma1f0y_, z_pacifist",2023-07-17 21:55:38.846000
+amaturectf23-compact_xors,['crypto'],___apn___,2023-07-16 10:28:17.415000
+amaturectf23-you_get_extrainformation_1,['crypto'],"_d1sc0, ___apn___",2023-07-16 12:08:03.175000
+amaturectf23-minecraft,['forensics'],"_b1u33, sp3p3x",2023-07-16 15:46:28.570000
+amaturectf23-zipper,['forensics'],gh0stkn1ght,2023-07-16 14:24:21.158000
+amaturectf23-miniscule,['forensics'],"gh0stkn1ght, azr43lkn1ght, sp3p3x, w31rd5h4rk, _b1u33, jl911",Nil
+amaturectf23-rntk,['pwn'],"_r0r1_, tourpran, ath3n1x",2023-07-16 15:13:34.500000
+amaturectf23-you_get_extrainformation_2,['crypto'],Sans,2023-07-16 13:50:29.478000
+amaturectf23-i-love-ffi,['pwn'],"tourpran, justk1r4",2023-07-16 14:07:51.584000
+amaturectf23-non-quadratic_residues,['crypto'],"Sans, ___apn___, _d1sc0",2023-07-18 13:26:21.883000
+amaturectf23-weak_primes,['crypto'],"_d1sc0, ___apn___, Sans, ls.exe",2023-07-18 12:56:24.335000
+amaturectf23-gitint_5e,['osint'],"gh0stkn1ght, _b1u33",2023-07-16 14:58:12.105000
+amaturectf23-gitint_7d,['osint'],"tourpran, _b1u33, gh0stkn1ght",2023-07-18 22:30:07.315000
+amaturectf23-perfect-sandbox,['pwn'],_r0r1_,2023-07-17 17:02:18.137000
+amaturectf23-permissions,['pwn'],"_r0r1_, ath3n1x, tourpran, justk1r4",Nil
+amaturectf23-funny_factors,['web'],"win.ters, z_pacifist",2023-07-16 16:12:07.752000
+amaturectf23-volcano,['reverse'],"sherlockcheezu, the_mechanic__",2023-07-16 16:19:45.263000
+amaturectf23-go-gopher,['web'],ma1f0y_,2023-07-17 21:49:49.923000
+amaturectf23-headache,['reverse'],"sherlockcheezu, k1n0r4, retr0ds",2023-07-16 22:57:52.447000
+amaturectf23-rusteze,['reverse'],the_mechanic__,2023-07-16 17:37:14.048000
+amaturectf23-simple-heap-v1,['pwn'],tourpran,2023-07-16 19:31:10.533000
+amaturectf23-hex-converter,['pwn'],_r0r1_,2023-07-16 19:50:17.145000
+amaturectf23-trick-question,['reverse'],"the_mechanic__, amunrha, k1n0r4, shinobu5005, sherlockcheezu, tourpran",Nil
+amaturectf23-elfcrafting-v1,['pwn'],tourpran,2023-07-17 12:12:44.168000
+amaturectf23-injection,['forensics'],"gh0stkn1ght, sp3p3x, azr43lkn1ght, jl911",Nil
+amaturectf23-latek,['web'],win.ters,2023-07-17 09:58:22.148000
+amaturectf23-hex-converter2,['pwn'],_r0r1_,2023-07-17 15:40:24.243000
+amaturectf23-elfcrafting-v2,['pwn'],"tourpran, _r0r1_",2023-07-17 19:33:05.168000
+amaturectf23-painfully_deep_flag,['forensics'],"gh0stkn1ght, sp3p3x, jl911, _b1u33",2023-07-18 15:22:00.198000
+amaturectf23-jvm,['reverse'],"the_mechanic__, sherlockcheezu",2023-07-18 15:06:41.888000
+amaturectf23-rusteze-2,['reverse'],"sherlockcheezu, the_mechanic__, amunrha",2023-07-17 21:23:09.443000
+amaturectf23-rules-iceberg,['forensics'],"gh0stkn1ght, _b1u33, sp3p3x, jl911",2023-07-18 14:54:24.251000
+amaturectf23-simpleos,['pwn'],"tourpran, justk1r4, ath3n1x, _r0r1_",Nil
+amaturectf23-frog-math,['pwn'],"_r0r1_, tourpran, justk1r4, ath3n1x",Nil
+amaturectf23-censorship,['misc'],"tourpran, _b1u33, ___apn___",2023-07-18 21:21:40.989000
+amaturectf23-gophers-revenge,['web'],"lu513n, ma1f0y_, luc_f3r, win.ters, l0x.me",Nil
+amaturectf23-uwuctf,['web'],"win.ters, ma1f0y_, lu513n, luc_f3r",2023-07-18 17:49:53.090000
+amaturectf23-cps_remastered,['web'],"lu513n, ma1f0y_, z_pacifist",Nil
+amaturectf23-flagchecker,['reverse'],shinobu5005,Nil
+amaturectf23-owo-time-pad,['crypto'],"___apn___, Sans, _d1sc0",Nil
+amaturectf23-archived,['osint'],"gh0stkn1ght, jl911, sp3p3x, _b1u33",2023-07-18 15:44:30.545000
+amaturectf23-screenshot-guesser,['osint'],"gh0stkn1ght, _b1u33",Nil
+amaturectf23-lahoot,['web'],win.ters,Nil
+amaturectf23-screenshotguesser,['osint'],"_b1u33, ___apn___",2023-07-18 17:01:48.455000
+amaturectf23-emojicode,['reverse'],"sherlockcheezu, the_mechanic__, shinobu5005, amunrha, tourpran",Nil
+amaturectf23-cencorshipv2,['misc'],tourpran,2023-07-18 21:27:45.723000
+amaturectf23-q-warmup,['misc'],"luc_f3r, win.ters",2023-07-19 17:57:53.497000
+amaturectf23-censorshiplite,['misc'],tourpran,Nil
