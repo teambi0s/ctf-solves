@@ -1,0 +1,40 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+downunderctf24-sign-in,['pwn'],"heartstoller, _r0r1_, justk1r4, theb4tmite, silence_, tourpran",Nil
+downunderctf24-hah-got-em,['web'],a0xnirudh,2024-07-06 20:29:40.861000
+downunderctf24-dungeon,['reverse'],"the.m3chanic, k1n0r4, retr0ds, silence_, sp3p3x",Nil
+downunderctf24-avg_asm_assign,['reverse'],"sherlockcheezu, silence_, the.m3chanic",Nil
+downunderctf24-i_see,['hardware'],jatin.exe,2024-07-06 17:21:37.289000
+downunderctf24-faulty-kernel,['pwn'],justk1r4,2024-07-06 18:51:17.540000
+downunderctf24-babys_first_foren,['forensics'],__m1m1__,2024-07-05 16:26:34.570000
+downunderctf24-tldrplssummarise,['misc'],"sherlockcheezu, sp3p3x",2024-07-05 15:36:58.894000
+downunderctf24-emuc2,['forensics'],"sp3p3x, azr43lkn1ght, jl_24, gh0stkn1ght, hrippi.x_, .d_pro, __m1m1__, winters0x168, luc_f3r, rudraagh, kr4z31n",2024-07-07 03:05:48.068000
+downunderctf24-lost-in-memory,['forensics'],"azr43lkn1ght, sp3p3x, gh0stkn1ght, jl_24, hrippi.x_, rudraagh, kr4z31n, __m1m1__",2024-07-06 21:59:28.596000
+downunderctf24-yawa,['pwn'],"theb4tmite, heartstoller",2024-07-05 18:26:29.095000
+downunderctf24-co2,['web'],"h3ri0s, k0w4lzk1",2024-07-05 17:47:22.713000
+downunderctf24-decrypt-then-eval,['crypto'],"ls.exe, ___apn___, sans8475",2024-07-05 19:02:24.783000
+downunderctf24-pressing-buttons,['reverse'],"xbr01, drunknb0tch, silence_, the.m3chanic, retr0ds, sherlockcheezu, k1n0r4",Nil
+downunderctf24-number_mashing,['reverse'],"kndn, kndn, the.m3chanic",2024-07-05 22:11:47.213000
+downunderctf24-bad_policies,['forensics'],"hrippi.x_, .d_pro",2024-07-05 17:31:47.210000
+downunderctf24-sheep_farm_sim,['pwn'],"_r0r1_, justk1r4, silence_, tourpran, heartstoller, theb4tmite",Nil
+downunderctf24-three-line-crypto,['crypto'],"___apn___, ls.exe, sans8475, silence_, aerosol., hisoka.fr, abhishekbharadwaj, lu513n, the.m3chanic, jl_24",Nil
+downunderctf24-mirage,['pwn'],"tourpran, silence_, justk1r4, heartstoller, spektr.e, _r0r1_",Nil
+downunderctf24-vector-overflow,['pwn'],silence_,2024-07-05 19:19:03.131000
+downunderctf24-confusion,['web'],"k0w4lzk1, luc_f3r",2024-07-06 18:23:02.664000
+downunderctf24-decoys,['osint'],"__m1m1__, kr4z31n",2024-07-06 15:10:45.161000
+downunderctf24-waifu,['web'],"lu513n, luc_f3r, k0w4lzk1, exigent07, ma1f0y_, tr4c3734, winters0x168, avntka, h3ri0s, r0h17h, alfin3313, .d_pro, the.m3chanic",Nil
+downunderctf24-pressing_buttons,['reverse'],"retr0ds, k1n0r4",Nil
+downunderctf24-my_number_generator,['crypto'],"sans8475, ___apn___",2024-07-06 03:48:46.791000
+downunderctf24-the_other_minimal_php,"['misc', 'web']","lu513n, ma1f0y_",2024-07-06 12:46:29.968000
+downunderctf24-sounds_nice,['hardware'],jatin.exe,2024-07-06 02:46:13.748000
+downunderctf24-wacky-recipe,['misc'],"the.m3chanic, sp3p3x, gh0stkn1ght",2024-07-06 05:19:09.970000
+downunderctf24-sniffy,['web'],"luc_f3r, lu513n, winters0x168, ma1f0y_, r0h17h",2024-07-06 23:03:29.201000
+downunderctf24-v-for-vieta,['crypto'],"hisoka.fr, abhishekbharadwaj, sans8475, ___apn___",2024-07-06 19:14:32.424000
+downunderctf24-co2v2,['web'],"ma1f0y_, winters0x168, r0h17h, z_pacifist, k0w4lzk1",2024-07-07 10:13:47.727000
+downunderctf24-marketing,['osint'],"kr4z31n, __m1m1__, rudraagh, silence_, heartstoller",2024-07-06 16:55:15.331000
+downunderctf24-intercepted_transmissions,['misc'],"hrippi.x_, kr4z31n, .d_pro, __m1m1__",2024-07-06 19:29:49.503000
+downunderctf24-jmp_flag,['reverse'],"retr0ds, k1n0r4",2024-07-06 21:01:54.259000
+downunderctf24-the_door,['hardware'],jatin.exe,Nil
+downunderctf24-pac_shell,['pwn'],_r0r1_,2024-07-06 23:50:01.319000
+downunderctf24-dnadecay,['misc'],"lu513n, heartstoller, kr4z31n, hrippi.x_, .d_pro",2024-07-07 00:06:25.217000
+downunderctf24-macro_magic,['forensics'],"jl_24, gh0stkn1ght, azr43lkn1ght, sp3p3x, kr4z31n, hrippi.x_",2024-07-07 01:47:01.671000
+downunderctf24-prisoner,['web'],"lu513n, ma1f0y_",2024-07-07 14:48:57.292000
