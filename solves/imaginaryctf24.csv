@@ -1,0 +1,44 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+imaginaryctf24-watchdog,['reverse'],"retr0ds, kndn, the.m3chanic, k1n0r4",Nil
+imaginaryctf24-unoriginal,['reverse'],kndn,2024-07-20 00:54:53.286000
+imaginaryctf24-readme,['web'],k0w4lzk1,2024-07-20 00:41:35.291000
+imaginaryctf24-dog_mom,['osint'],__m1m1__,2024-07-20 02:08:05.592000
+imaginaryctf24-absoluteflagchecker,['reverse'],"retr0ds, sherlockcheezu, k1n0r4, ls.exe, the.m3chanic, heartstoller, kndn",Nil
+imaginaryctf24-ropity,['pwn'],"silence_, _r0r1_",2024-07-20 07:03:30.533000
+imaginaryctf24-bom,['forensics'],hrippi.x_,2024-07-20 00:57:42.045000
+imaginaryctf24-cartesian-1,['osint'],hrippi.x_,2024-07-20 00:58:29.038000
+imaginaryctf24-packed,['forensics'],sp3p3x,2024-07-20 00:59:28.047000
+imaginaryctf24-imgstore,['pwn'],"silence_, heartstoller",2024-07-20 02:09:11.567000
+imaginaryctf24-journal,['web'],"winters0x168, k0w4lzk1",2024-07-20 11:01:11.577000
+imaginaryctf24-cartesian-3,['osint'],"h3ri0s, kr4z31n, silence_, rudraagh, __m1m1__",2024-07-20 18:32:58.929000
+imaginaryctf24-onewrite,['pwn'],"_r0r1_, silence_",2024-07-20 03:00:18.928000
+imaginaryctf24-fermat,['pwn'],"silence_, _r0r1_",2024-07-20 08:20:28.272000
+imaginaryctf24-bf,['reverse'],"sherlockcheezu, _r0r1_",2024-07-20 04:26:05.704000
+imaginaryctf24-gdbjail1,['misc'],"_r0r1_, sherlockcheezu",2024-07-20 04:54:58.883000
+imaginaryctf24-gdbjail2,['misc'],"sherlockcheezu, _r0r1_",2024-07-20 04:55:00.351000
+imaginaryctf24-rusty,['reverse'],"jatin.exe, sherlockcheezu",2024-07-20 11:35:28.124000
+imaginaryctf24-bopity,['pwn'],_r0r1_,2024-07-20 06:46:04.219000
+imaginaryctf24-ictf-band,['pwn'],silence_,2024-07-20 10:19:59.535000
+imaginaryctf24-hopper,['pwn'],_r0r1_,2024-07-20 21:28:13.460000
+imaginaryctf24-cartesian-2,['osint'],"silence_, __m1m1__, heartstoller, rudraagh, kr4z31n, theb4tmite",2024-07-22 00:21:34.497000
+imaginaryctf24-playful-puppy,['misc'],silence_,2024-07-20 09:44:46.319000
+imaginaryctf24-readme2,['web'],"z_pacifist, k0w4lzk1, h3ri0s",2024-07-21 19:10:14.129000
+imaginaryctf24-elf-in-front-of-a-sunset,['forensics'],"kr4z31n, silence_, hrippi.x_, __m1m1__, rudraagh, the.m3chanic",Nil
+imaginaryctf24-base64,['crypto'],arch_zero,2024-07-20 13:54:44.321000
+imaginaryctf24-p2c,['web'],"h3ri0s, z_pacifist, alfin3313, k0w4lzk1",2024-07-20 13:38:59.791000
+imaginaryctf24-crash,['forensics'],"kr4z31n, __m1m1__, rudraagh",2024-07-20 13:40:01.065000
+imaginaryctf24-crystals,['web'],"z_pacifist, k0w4lzk1, h3ri0s",2024-07-20 19:06:49.637000
+imaginaryctf24-nsftpd,['pwn'],"justk1r4, _r0r1_, heartstoller, theb4tmite, tourpran, silence_",Nil
+imaginaryctf24-svm,['reverse'],"retr0ds, k1n0r4",2024-07-20 23:18:21.627000
+imaginaryctf24-heapnotes,['web'],"lu513n, ma1f0y_",2024-07-21 23:51:38.952000
+imaginaryctf24-sussy,['misc'],"silence_, k0w4lzk1, z_pacifist, heartstoller, h3ri0s, kr4z31n",2024-07-21 09:17:37.394000
+imaginaryctf24-bank,['misc'],"silence_, komalrao",2024-07-20 21:21:26.892000
+imaginaryctf24-unconditional,['reverse'],"retr0ds, k1n0r4",2024-07-20 23:18:01.511000
+imaginaryctf24-bank-revenge,['blockchain'],"komalrao, silence_",2024-07-21 11:50:59.536000
+imaginaryctf24-amazing-race,['web'],"h3ri0s, z_pacifist, k0w4lzk1",2024-07-21 18:40:54.606000
+imaginaryctf24-vokram,['reverse'],"sherlockcheezu, retr0ds, k1n0r4",Nil
+imaginaryctf24-starship,['misc'],silence_,2024-07-21 00:28:55.049000
+imaginaryctf24-integrity,['crypto'],"ls.exe, hisoka.fr",2024-07-21 13:18:46.557000
+imaginaryctf24-tango,['crypto'],ls.exe,2024-07-21 16:19:31.834000
+imaginaryctf24-pwning-en-logique,['web'],"z_pacifist, k0w4lzk1, h3ri0s, ma1f0y_",Nil
+imaginaryctf24-routed,['forensics'],"silence_, __m1m1__",Nil
