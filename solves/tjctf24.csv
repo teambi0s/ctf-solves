@@ -1,0 +1,36 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+tjctf24-conversations,['forensics'],"jl_24, gh0stkn1ght",2024-05-18 00:50:36.587000
+tjctf24-guess_what,['reverse'],"the.m3chanic, retr0ds",2024-05-18 00:55:50.562000
+tjctf24-skibidi_toilet,['reverse'],"the.m3chanic, retr0ds",2024-05-18 02:03:12.071000
+tjctf24-weird-crypto,['crypto'],___apn___,2024-05-18 00:56:46.848000
+tjctf24-thatsmyjam,['forensics'],"azr43lkn1ght, gh0stkn1ght, jl_24",2024-05-18 01:06:01.211000
+tjctf24-pals,['forensics'],"azr43lkn1ght, jl_24, gh0stkn1ght",2024-05-18 01:09:48.235000
+tjctf24-purified,['forensics'],"azr43lkn1ght, gh0stkn1ght, jl_24, __m1m1__, kr4z31n, silence_, rudraagh, 5h4rrk, heartstoller, sp3p3x, hrippi.x_",Nil
+tjctf24-cowsay,['pwn'],heartstoller,2024-05-18 01:32:53.990000
+tjctf24-minisculest,['forensics'],"kr4z31n, 5h4rrk, gh0stkn1ght, rudraagh, __m1m1__",2024-05-19 21:53:46.785000
+tjctf24-accountleak,['crypto'],sans8475,2024-05-18 02:02:19.181000
+tjctf24-wttwo,['reverse'],"the.m3chanic, retr0ds",2024-05-18 02:35:02.214000
+tjctf24-garfield-monday,['reverse'],"the.m3chanic, retr0ds",2024-05-18 02:50:08.445000
+tjctf24-assume,['crypto'],sans8475,2024-05-18 03:02:15.941000
+tjctf24-guy-from-hiking,['misc'],"__m1m1__, silence_",2024-05-18 09:38:34.324000
+tjctf24-ring-opening-polymerization,['pwn'],silence_,2024-05-18 09:03:10.602000
+tjctf24-sled,['pwn'],"heartstoller, silence_",2024-05-18 11:00:18.329000
+tjctf24-baby-heap,['pwn'],silence_,2024-05-18 10:02:11.425000
+tjctf24-fullerene,['pwn'],"silence_, theb4tmite, heartstoller, _r0r1_, justk1r4, sans8475, spektr.e",Nil
+tjctf24-topplecontainer,['web'],winters0x168,2024-05-18 22:05:59.855000
+tjctf24-reader,['web'],"k0w4lzk1, winters0x168",2024-05-18 12:41:33.477000
+tjctf24-fetcher,['web'],k0w4lzk1,2024-05-18 12:51:29.633000
+tjctf24-templater,['web'],luc_f3r,2024-05-18 18:43:34.220000
+tjctf24-alkane,['crypto'],"hisoka.fr, sans8475",2024-05-19 18:41:19.977000
+tjctf24-lightweight-crypto-guard-system,['crypto'],"hisoka.fr, aerosol., ___apn___",2024-05-19 15:53:51.776000
+tjctf24-cagnus-marlsen,['reverse'],"the.m3chanic, retr0ds, sherlockcheezu",2024-05-19 04:00:07.826000
+tjctf24-slider,['reverse'],"sherlockcheezu, retr0ds",2024-05-18 18:52:40.030000
+tjctf24-golf-hard,['misc'],"silence_, heartstoller, theb4tmite, kndn, justk1r4, tourpran, exigent07, h3ri0s, lu513n, alfin3313, _r0r1_, k0w4lzk1, tricky_ninja",Nil
+tjctf24-music-checkout,['web'],luc_f3r,2024-05-18 19:00:24.340000
+tjctf24-kaboot,['web'],"luc_f3r, winters0x168, alfin3313, k0w4lzk1, exigent07, ma1f0y_, h3ri0s, lu513n",Nil
+tjctf24-cf3,['reverse'],"sherlockcheezu, retr0ds, the.m3chanic",2024-05-19 00:28:02.689000
+tjctf24-rusty,['reverse'],"the.m3chanic, retr0ds, sherlockcheezu, br34dcrumb",Nil
+tjctf24-iodomethane,['crypto'],"sans8475, ___apn___, hisoka.fr",2024-05-19 21:53:35.845000
+tjctf24-stream-complimentary,['reverse'],kndn,Nil
+tjctf24-hulksmash,['crypto'],"sans8475, ___apn___",2024-05-19 23:03:34.962000
+tjctf24-u-235,['crypto'],"sans8475, aerosol., ___apn___",Nil

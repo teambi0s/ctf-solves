@@ -1,0 +1,28 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+acscctf24-picopico,['hardware'],"br34dcrumb, otaku_cb, a.lucard.",2024-03-30 15:00:42.504000
+acscctf24-rot13,['pwn'],"silence_, justk1r4, _r0r1_, b4tmite, tourpran, heartstoller",2024-03-30 10:23:26.322000
+acscctf24-jenga,['crypto'],"ls.exe, aerosol., ___apn___, hrippi.x_, sans8475, arch_zero, 5h4rrk, jl_24, __m1m1__, its_me_ask, j0dh7",Nil
+acscctf24-rfid_demod,['hardware'],"azr43lkn1ght, otaku_cb, br34dcrumb, a.lucard.",2024-03-30 12:43:01.848000
+acscctf24-oao,['reverse'],"retr0ds, the.m3chanic, k1n0r4, justk1r4, br34dcrumb, spektr.e, sherlockcheezu",Nil
+acscctf24-login,['web'],z_pacifist,2024-03-30 09:17:00.827000
+acscctf24-sneaky_veh,['reverse'],"retr0ds, the.m3chanic, sherlockcheezu, k1n0r4, justk1r4, gh0stkn1ght, azr43lkn1ght, freakston, sp3p3x, br34dcrumb, spektr.e",Nil
+acscctf24-compyled,['reverse'],"tricky_ninja, sherlockcheezu, kndn",2024-03-30 17:32:53.996000
+acscctf24-too_faulty,['web'],z_pacifist,2024-03-30 09:17:06.611000
+acscctf24-command_runner,['reverse'],"sherlockcheezu, the.m3chanic, k1n0r4, retr0ds, jl_24, gh0stkn1ght, sp3p3x, br34dcrumb, spektr.e",Nil
+acscctf24-buggy_bounty,['web'],"z_pacifist, winters0x168, luc_f3r, alfin, l0x.me, avntka",2024-03-30 11:01:46.919000
+acscctf24-fast_note,['web'],"z_pacifist, ma1f0y_, lu513n, luc_f3r, spektr.e, justk1r4, winters0x168",2024-03-30 23:19:36.341000
+acscctf24-db_explorer,['web'],"z_pacifist, r0h1t.pxh, l0x.me, winters0x168, alfin, luc_f3r, lu513n, exigent07, k0w4lsk1_, ma1f0y_, avntka, sk4d",Nil
+acscctf24-rsa_stream2,['crypto'],"ls.exe, hisoka.fr, sans8475, aerosol.",2024-03-30 15:17:08.903000
+acscctf24-vault,['hardware'],"sp3p3x, azr43lkn1ght, the.m3chanic, sherlockcheezu, retr0ds, otaku_cb",2024-03-30 13:05:41.150000
+acscctf24-pwr_tr4ce,['hardware'],"azr43lkn1ght, otaku_cb, br34dcrumb",2024-03-30 13:41:38.385000
+acscctf24-fleeda,['pwn'],"tourpran, _r0r1_, silence_",2024-03-30 19:41:16.894000
+acscctf24-strange_machine,['crypto'],"ls.exe, ___apn___, arch_zero, gh0stkn1ght, azr43lkn1ght",Nil
+acscctf24-an4lyz3_1t,['hardware'],"azr43lkn1ght, otaku_cb, br34dcrumb, a.lucard.",2024-03-30 12:42:39.258000
+acscctf24-yarareta,['reverse'],"k1n0r4, retr0ds, justk1r4, barlaabhi, br34dcrumb, spektr.e, sherlockcheezu, tricky_ninja, the.m3chanic",Nil
+acscctf24-yara,['reverse'],"k1n0r4, justk1r4, gh0stkn1ght, barlaabhi, br34dcrumb, spektr.e, the.m3chanic, sherlockcheezu, amunrha",Nil
+acscctf24-shogi,['pwn'],"justk1r4, b4tmite, silence_, _r0r1_, spektr.e, tourpran, heartstoller",Nil
+acscctf24-life-simulator,['pwn'],"justk1r4, silence_, spektr.e, b4tmite, heartstoller, tourpran, _r0r1_, dark.kn1ght",Nil
+acscctf24-strongest_oaep,['crypto'],"sans8475, ___apn___, gh0stkn1ght, aerosol., arch_zero, hisoka.fr, abhishekbharadwaj, __m1m1__, its_me_ask",Nil
+acscctf24-contextual,['pwn'],"justk1r4, dark.kn1ght",2024-03-31 04:04:20.716000
+acscctf24-oblivion,['crypto'],"ls.exe, arch_zero, aerosol., gh0stkn1ght, jl_24, ___apn___, sans8475",Nil
+acscctf24-tridea,['reverse'],tricky_ninja,Nil

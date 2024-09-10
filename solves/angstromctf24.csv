@@ -1,0 +1,35 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+angstromctf24-exam,['pwn'],"theb4tmite, silence_",2024-05-25 10:41:29.384000
+angstromctf24-stacksort,['pwn'],"_r0r1_, silence_",2024-05-25 17:50:41.159000
+angstromctf24-presidential,['pwn'],"heartstoller, silence_, theb4tmite",2024-05-25 12:16:39.758000
+angstromctf24-og,['pwn'],"theb4tmite, silence_",2024-05-25 10:42:29.082000
+angstromctf24-guess_the_flag,['reverse'],theb4tmite,2024-05-25 10:45:40.801000
+angstromctf24-trip,['misc'],"heartstoller, silence_, theb4tmite, kr4z31n",2024-05-25 11:54:46.147000
+angstromctf24-winds,['web'],"h3ri0s, z_pacifist",2024-05-25 11:29:23.583000
+angstromctf24-spinner,['web'],h3ri0s,2024-05-25 10:43:07.356000
+angstromctf24-markdown,['web'],alfin3313,2024-05-25 10:41:07.159000
+angstromctf24-pastebin,['web'],"z_pacifist, alfin3313, luc_f3r",2024-05-25 12:10:57.526000
+angstromctf24-philosophy,['crypto'],"aerosol., ___apn___",2024-05-25 11:04:39.125000
+angstromctf24-bap,['pwn'],"theb4tmite, silence_",2024-05-25 10:43:17.884000
+angstromctf24-store,['web'],"z_pacifist, alfin3313",2024-05-25 10:57:34.107000
+angstromctf24-leftright,['pwn'],"silence_, justk1r4, _r0r1_, tourpran, heartstoller",2024-05-26 04:12:00.835000
+angstromctf24-layers,['crypto'],aerosol.,2024-05-25 11:55:46.623000
+angstromctf24-switcher,['reverse'],tricky_ninja,2024-05-25 11:06:25.839000
+angstromctf24-random_rabin,['crypto'],"sans8475, arch_zero",2024-05-25 16:39:21.300000
+angstromctf24-heapify,['pwn'],"tourpran, silence_, justk1r4",2024-05-25 16:54:46.267000
+angstromctf24-tickler,['web'],"z_pacifist, ma1f0y_, lu513n, winters0x168",2024-05-25 17:48:12.044000
+angstromctf24-watermark,['web'],"lu513n, ma1f0y_, alfin3313",2024-05-25 17:52:50.401000
+angstromctf24-college_apps,['reverse'],the.m3chanic,2024-05-25 16:53:58.846000
+angstromctf24-ispy,['reverse'],"sherlockcheezu, 5h4rrk",Nil
+angstromctf24-beyond,['reverse'],sherlockcheezu,2024-05-26 15:35:03.357000
+angstromctf24-blahaj,['crypto'],"sans8475, aerosol., ___apn___, arch_zero, hisoka.fr",Nil
+angstromctf24-caasio,['web'],lu513n,2024-05-25 23:12:16.485000
+angstromctf24-polyomina,['reverse'],"the.m3chanic, retr0ds",2024-05-26 19:43:01.953000
+angstromctf24-clockstop,['reverse'],"the.m3chanic, sherlockcheezu, silence_, retr0ds, amunrha",Nil
+angstromctf24-evilplatform,['web'],"z_pacifist, k0w4lzk1, lu513n",2024-05-27 01:23:49.329000
+angstromctf24-themectl,['pwn'],"_r0r1_, silence_",2024-05-26 12:50:15.640000
+angstromctf24-snowman,['misc'],silence_,2024-05-26 15:44:04.796000
+angstromctf24-pycjail,['misc'],"justk1r4, ma1f0y_, heartstoller",2024-05-27 20:03:25.047000
+angstromctf24-introspection,['misc'],"silence_, heartstoller, theb4tmite, alfin3313, sp3p3x, jl_24, kr4z31n, rudraagh, justk1r4, tourpran, k0w4lzk1, h3ri0s, 5h4rrk, gh0stkn1ght, ma1f0y_, z_pacifist, winters0x168",Nil
+angstromctf24-tss1,['crypto'],"hisoka.fr, aerosol.",2024-05-27 23:03:41.991000
+angstromctf24-simon_says,['crypto'],"aerosol., hisoka.fr, sans8475",Nil

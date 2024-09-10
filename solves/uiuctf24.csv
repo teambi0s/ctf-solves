@@ -1,0 +1,32 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+uiuctf24-night,['osint'],"rudraagh, kr4z31n, __m1m1__",2024-06-29 07:35:05.007000
+uiuctf24-an_unlikely_partnership,['osint'],kr4z31n,2024-06-29 05:49:31.330000
+uiuctf24-hip_with_the_youth,['osint'],"rudraagh, silence_, sp3p3x, kr4z31n, __m1m1__",2024-06-29 07:40:52.778000
+uiuctf24-the_weakest_link,['osint'],"kr4z31n, silence_, rudraagh, __m1m1__",2024-06-30 16:41:36.388000
+uiuctf24-determined,['crypto'],ls.exe,2024-06-29 10:53:56.443000
+uiuctf24-chunky_boi,['osint'],"kr4z31n, jl_24, rudraagh, __m1m1__, silence_, gh0stkn1ght, heartstoller, exigent07, h3ri0s, k0w4lzk1",2024-06-30 15:11:11.233000
+uiuctf24-groups,['crypto'],"aerosol., ___apn___",2024-06-29 08:28:20.594000
+uiuctf24-without-a-trace,['crypto'],___apn___,2024-06-29 08:58:48.744000
+uiuctf24-syscalls,['pwn'],"_r0r1_, tourpran, silence_",2024-06-29 17:37:41.654000
+uiuctf24-time-travel,['reverse'],"the.m3chanic, sherlockcheezu, _r0r1_, k1n0r4, retr0ds, silence_",Nil
+uiuctf24-too_fancy,['reverse'],"sherlockcheezu, _r0r1_, k1n0r4, retr0ds, silence_",Nil
+uiuctf24-fire_evasion,['web'],"winters0x168, luc_f3r, alfin3313, ma1f0y_, k0w4lzk1",2024-06-29 10:53:55.283000
+uiuctf24-naptime,['crypto'],___apn___,2024-06-29 13:48:50.129000
+uiuctf24-log_action,['web'],"luc_f3r, winters0x168, alfin3313",2024-06-30 11:42:50.563000
+uiuctf24-x_marked_the_spot,['crypto'],arch_zero,2024-06-29 12:40:59.621000
+uiuctf24-key_in_haystack,['crypto'],ls.exe,2024-06-29 20:25:54.794000
+uiuctf24-snore_signatures,['crypto'],"sans8475, ___apn___",2024-06-29 23:09:01.911000
+uiuctf24-goose_chase,['reverse'],"sp3p3x, the.m3chanic",2024-06-29 19:01:14.759000
+uiuctf24-pwnymalloc,['pwn'],"tourpran, _r0r1_",2024-06-29 23:14:20.045000
+uiuctf24-backup-power,['pwn'],"silence_, _r0r1_, tourpran, theb4tmite, heartstoller, justk1r4",2024-06-30 12:56:01.882000
+uiuctf24-new_dallas,['osint'],"gh0stkn1ght, __m1m1__, kr4z31n, rudraagh, arch_zero, heartstoller, silence_, theb4tmite, h3ri0s, hrippi.x_, ___apn___, sans8475, aerosol., sp3p3x",Nil
+uiuctf24-summarize,['reverse'],tricky_ninja,2024-06-29 19:35:35.017000
+uiuctf24-pwnypass,['web'],"ma1f0y_, r0h17h, .d_pro, alfin3313, sherlockcheezu, lu513n, luc_f3r, exigent07, z_pacifist, k0w4lzk1, winters0x168, h3ri0s, silence_",Nil
+uiuctf24-wild-goose-chase,['reverse'],"the.m3chanic, sp3p3x, silence_",Nil
+uiuctf24-pwnymaps,['reverse'],"sherlockcheezu, the.m3chanic, sp3p3x, silence_, kndn, sans8475",Nil
+uiuctf24-slot-machine,['misc'],"the.m3chanic, gh0stkn1ght, sp3p3x, silence_, ___apn___, sans8475, heartstoller, __m1m1__, kr4z31n, k0w4lzk1, exigent07, rudraagh, lu513n, winters0x168, alfin3313",Nil
+uiuctf24-astea,['misc'],"gh0stkn1ght, __m1m1__, heartstoller, sans8475, kr4z31n, k0w4lzk1, exigent07, rudraagh, lu513n, winters0x168, ___apn___, alfin3313, jl_24, h3ri0s, hrippi.x_, silence_, sp3p3x, aerosol., tourpran",Nil
+uiuctf24-rusty-pointers,['pwn'],"tourpran, _r0r1_",2024-06-30 15:31:20.459000
+uiuctf24-syscall-2,['pwn'],"_r0r1_, tourpran, heartstoller, theb4tmite, silence_, justk1r4, winters0x168",Nil
+uiuctf24-push_and_pickle,['misc'],"___apn___, winters0x168, jl_24, k0w4lzk1, gh0stkn1ght, silence_, heartstoller, theb4tmite, kr4z31n, __m1m1__",Nil
+uiuctf24-lost-canary,['reverse'],"tourpran, the.m3chanic",2024-06-30 22:52:17.953000

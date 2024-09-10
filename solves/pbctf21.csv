@@ -1,0 +1,19 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+pbctf21-nightclub,pwn,"Nikhil, aDHIxx, Ritvik, shravya, k1R4, sourag, Pwn_Solo, DarkKnight, arsenelupwn",Nil
+pbctf21-out_of_order,pwn,"aDHIxx, Ritvik, shravya, k1R4, Nikhil, sourag, Pwn_Solo, DarkKnight, arsenelupwn",Nil
+pbctf21-alkaloid,crypto,"V0ld3m0rt, Abhishek Bharadwaj, stryder, Pavani Poluru, ph03n1x, 2TAP, careless_finch",Nil
+pbctf21-binary-tree,reverse,"Freakston, silverf3lix, D3v1L, fugitive, Ad0lphus, Revathi, bl4ck_Widw, imm0rt4l_5t4rk, 4lex1, Vishnu Madhav, AmunRha, Aneesh, Rohit Narayanan M",Nil
+pbctf21-tbdxss,web,yadhu,2021-10-09 10:50:38.732000
+pbctf21-btle,forensics,"f4lc0n, g4rud4",2021-10-09 13:20:02.928000
+pbctf21-baby-kernel,pwn,"Ritvik, k1R4, aDHIxx, sourag",Nil
+pbctf21-cosmo,reverse,fugitive,2021-10-09 14:19:10.102000
+pbctf21-mailtester,web,"Rohit Narayanan M, yadhu, Aneesh, Cap-k, Az3z3l, Sk4d00.sh, Sayooj B Kumar",Nil
+pbctf21-ghost,misc,d3liri0us,2021-10-10 01:23:15.797000
+pbctf21-vault,web,"Az3z3l, yadhu, Aneesh, Sk4d00.sh, Rohit Narayanan M, Cap-k, Sayooj B Kumar",Nil
+pbctf21-serenity,pwn,"DarkKnight, arsenelupwn, Nikhil, aDHIxx, k1R4, Ritvik, shravya",Nil
+pbctf21-advancement,web,"Aneesh, yadhu, Sk4d00.sh, Cap-k, Az3z3l, Rohit Narayanan M, Sayooj B Kumar",Nil
+pbctf21-just,reverse,"fugitive, Revathi, imm0rt4l_5t4rk, Ad0lphus, D3v1L, AmunRha, bl4ck_Widw, Freakston",Nil
+pbctf21-isthatyourpacket,misc,"g4rud4, a3x3k, d3liri0us, P4BLØ, Sampath, Ary",Nil
+pbctf21-switchinitup,reverse,"AmunRha, D3v1L, fugitive, imm0rt4l_5t4rk, Revathi, Freakston, bl4ck_Widw, Ad0lphus",Nil
+pbctf21-rsa,crypto,"Pavani Poluru, ph03n1x, careless_finch, Abhishek Bharadwaj",Nil
+pbctf21-wysiwyg,web,"Aneesh, Rohit Narayanan M, Az3z3l, Sk4d00.sh, yadhu, careless_finch, Cap-k",Nil
