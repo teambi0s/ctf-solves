@@ -18,26 +18,26 @@ Use `run.py` to see your solve stats.
 | retr0ds | 92 |
 | Aneesh | 90 |
 | sp3p3x | 89 |
-| hisoka.fr | 82 |
+| hisoka.fr | 83 |
 | luc_f3r | 80 |
 | heartstoller | 78 |
-| lu513n | 76 |
+| lu513n | 77 |
+| ma1f0y_ | 75 |
 | azr43lkn1ght | 75 |
-| ma1f0y_ | 74 |
 | sherlockcheezu | 73 |
 | __m1m1__ | 69 |
 | k1n0r4 | 65 |
 | kr4z31n | 64 |
+| ___apn___ | 64 |
+| the.m3chanic | 64 |
 | DarkKnight | 63 |
 | k1R4 | 63 |
-| ___apn___ | 63 |
-| the.m3chanic | 63 |
 | Sans | 61 |
-| aerosol. | 59 |
+| aerosol. | 60 |
 | jl_24 | 56 |
-| exigent07 | 52 |
+| exigent07 | 53 |
+| k0w4lzk1 | 52 |
 | winters0x168 | 51 |
-| k0w4lzk1 | 51 |
 | Z_Pacifist | 50 |
 | careless_finch | 48 |
 | alfin | 48 |
@@ -47,8 +47,8 @@ Use `run.py` to see your solve stats.
 | Rohit Narayanan M | 45 |
 | sans8475 | 43 |
 | Lu513n | 42 |
+| h3ri0s | 41 |
 | spektre | 41 |
-| h3ri0s | 40 |
 | Barla Abhishek | 39 |
 | Az3z3l | 39 |
 | spektr.e | 39 |
