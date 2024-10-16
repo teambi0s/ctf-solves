@@ -12,7 +12,12 @@ users = {
     # TODO
 
     # Crypto
-    # TODO
+    "ls.exe": ["ls.exe", "LS"],
+    "hisoka.fr": ["hisoka.fr", "Hisoka"],
+    "sans8475": ["sans8475", "Sans"],
+    "___apn___": ["___apn___", "APN"],
+    "aerosol.": ["aerosol."],
+    "arch_zero": ["arch_zero"],
 
     # Rev
     # TODO
