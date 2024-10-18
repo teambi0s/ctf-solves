@@ -9,24 +9,27 @@ Use `run.py` to see your solve stats.
 | Username | Solves |
 | --- | --- |
 | SkyLance | 204 |
+| z_pacifist | 172 |
+| Aneesh | 166 |
+| lu513n | 165 |
 | ls.exe | 162 |
 | justk1r4 | 160 |
-| z_pacifist | 122 |
 | r0r1 | 120 |
 | hisoka.fr | 112 |
+| winters0x168 | 107 |
 | sans8475 | 105 |
 | tourpran | 104 |
 | gh0stkn1ght | 104 |
+| k0w4lzk1 | 96 |
+| luc_f3r | 95 |
 | retr0ds | 94 |
-| Aneesh | 90 |
 | sp3p3x | 90 |
 | heartstoller | 83 |
 | spektre | 81 |
-| luc_f3r | 81 |
+| h3ri0s | 80 |
 | ___apn___ | 80 |
-| lu513n | 78 |
+| alfin | 79 |
 | azr43lkn1ght | 77 |
-| ma1f0y_ | 76 |
 | __m1m1__ | 75 |
 | kr4z31n | 75 |
 | sherlockcheezu | 73 |
@@ -35,26 +38,17 @@ Use `run.py` to see your solve stats.
 | the.m3chanic | 65 |
 | DarkKnight | 63 |
 | b4tmite | 61 |
-| k0w4lzk1 | 61 |
 | exigent07 | 61 |
 | jl_24 | 59 |
 | rudraagh | 58 |
-| winters0x168 | 53 |
-| Z_Pacifist | 50 |
-| alfin | 48 |
+| l0x.me | 50 |
 | careless_finch | 48 |
-| h3ri0s | 48 |
 | AmunRha | 46 |
-| Rohit Narayanan M | 45 |
-| Lu513n | 42 |
 | Barla Abhishek | 39 |
 | Az3z3l | 39 |
 | hrippi.x_ | 39 |
-| k0w4lsk1_ | 35 |
-| r0h1t.pxh | 32 |
 | its_me_ask | 31 |
 | j0dh7 | 31 |
-| alfin3313 | 31 |
 | sh.4rk | 29 |
 | Ritvik | 29 |
 | tricky_ninja | 29 |
@@ -64,17 +58,14 @@ Use `run.py` to see your solve stats.
 | arch_zero | 28 |
 | yadhu | 28 |
 | victim1307 | 27 |
-| l0x.me | 26 |
 | Sk4d00.sh | 26 |
 | Sayooj B Kumar | 25 |
 | Azr43lKn1ght | 24 |
 | 5h4rrk | 22 |
-| Winters | 22 |
 | fugitive | 20 |
 | th3mech4n1c | 20 |
-| winters.ggs | 19 |
+| avntka | 19 |
 | sk4d | 19 |
-| L0xm1 | 19 |
 | Freakston | 19 |
 | jatin.exe | 19 |
 | silverf3lix | 18 |
@@ -90,7 +81,6 @@ Use `run.py` to see your solve stats.
 | D3v1L | 14 |
 | drunken_betch | 14 |
 | 570rmbreaker | 13 |
-| win.ters | 13 |
 | Abhishek S | 13 |
 | stuxn3t | 13 |
 | Sampath | 13 |
@@ -101,19 +91,16 @@ Use `run.py` to see your solve stats.
 | kndn | 11 |
 | Aneesh nadh R | 11 |
 | Aryaa | 11 |
-| avntka | 10 |
 | Rithvik | 10 |
 | f4lc0n | 9 |
 | Sayooj_B_Kumar | 9 |
 | P4BLØ | 9 |
 | jarvis | 9 |
 | Sabhya | 9 |
-| Av4nth1ka | 9 |
 | drunknb0tch | 9 |
 | Goutham Rajesh | 9 |
 | Vishvesh | 8 |
 | Cap-k | 8 |
-| Luc1f3r | 8 |
 | br34dcrumb | 7 |
 | 4d0lphu5 | 7 |
 | yadhuz | 7 |
@@ -123,7 +110,6 @@ Use `run.py` to see your solve stats.
 | arsenelupwn | 6 |
 | aniketm_ | 6 |
 | Jl | 6 |
-| AdithyaRaj | 6 |
 | .d_pro | 6 |
 | otaku_cb | 5 |
 | R3x | 5 |
@@ -132,7 +118,6 @@ Use `run.py` to see your solve stats.
 | komalrao | 5 |
 | dhn5280 | 5 |
 | hridhya | 5 |
-| L0xmii | 5 |
 | w3!RD5h4rk | 5 |
 | B1u33 | 5 |
 | Ad0lphus | 4 |

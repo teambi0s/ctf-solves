@@ -9,7 +9,17 @@ users = {
     "SkyLance": ["silence_"],
 
     # Web
-    # TODO
+    "z_pacifist":["z_pacifist","Z_Pacifist"],
+    "h3ri0s":["h3ri0s","r0h1t.pxh"],
+    "exigent07":["exigent07"],
+    "k0w4lzk1":["k0w4lzk1","k0w4lsk1_"],
+    "luc_f3r":["luc_f3r","Luc1f3r","AdithyaRaj"],
+    "winters0x168":["winters0x168","Winters","winters.ggs","win.ters"],
+    "alfin":["alfin","alfin3313"],
+    "Aneesh":["Aneesh","ma1f0y_"],
+    "lu513n":["lu513n","Lu513n","Rohit Narayanan M"],
+    "l0x.me":["l0x.me","L0xm1","L0xmii"],
+    "avntka":["avntka","Av4nth1ka"],
 
     # Crypto
     "ls.exe": ["ls.exe", "LS"],
