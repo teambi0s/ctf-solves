@@ -33,5 +33,13 @@ users = {
     # TODO
 
     # Forensics
-    # TODO
+    "m1m1": ["m1m1", "mamatha"],
+    "jl_24": ["jl_24","jl911", "Jl"],
+    "sp3p3x": ["sp3p3x"],
+    "5h4rrK": ["5h4rrK", "sh.4rk", "w3!rd5h4rk", "w3!rd5h4rk", "w31rd5h4rk" ,"Sabhya"],
+    "kr4z31n": ["kr4z31n", "jodeeel", "j0dh7"],
+    "rudraagh": ["rudraagh", "a.s.k3052"],
+    "hrippi.x_": ["hrippi.x_", "hridhya",],
+    "gh0stkn1ght": ["gh0stkn1ght"],
+    "Azr43lKn1ght": ["Azr43lKn1ght", "azr43lkn1ght"]
 }

@@ -16,10 +16,12 @@ Use `run.py` to see your solve stats.
 | justk1r4 | 160 |
 | r0r1 | 120 |
 | hisoka.fr | 112 |
+| kr4z31n | 108 |
 | winters0x168 | 107 |
 | sans8475 | 105 |
 | tourpran | 104 |
 | gh0stkn1ght | 104 |
+| Azr43lKn1ght | 101 |
 | k0w4lzk1 | 96 |
 | luc_f3r | 95 |
 | retr0ds | 94 |
@@ -29,9 +31,8 @@ Use `run.py` to see your solve stats.
 | h3ri0s | 80 |
 | ___apn___ | 80 |
 | alfin | 79 |
-| azr43lkn1ght | 77 |
+| jl_24 | 77 |
 | __m1m1__ | 75 |
-| kr4z31n | 75 |
 | sherlockcheezu | 73 |
 | aerosol. | 66 |
 | k1n0r4 | 65 |
@@ -39,17 +40,15 @@ Use `run.py` to see your solve stats.
 | DarkKnight | 63 |
 | b4tmite | 61 |
 | exigent07 | 61 |
-| jl_24 | 59 |
-| rudraagh | 58 |
+| rudraagh | 60 |
+| 5h4rrK | 54 |
 | l0x.me | 50 |
 | careless_finch | 48 |
 | AmunRha | 46 |
+| hrippi.x_ | 44 |
 | Barla Abhishek | 39 |
 | Az3z3l | 39 |
-| hrippi.x_ | 39 |
 | its_me_ask | 31 |
-| j0dh7 | 31 |
-| sh.4rk | 29 |
 | Ritvik | 29 |
 | tricky_ninja | 29 |
 | sourag | 28 |
@@ -60,7 +59,6 @@ Use `run.py` to see your solve stats.
 | victim1307 | 27 |
 | Sk4d00.sh | 26 |
 | Sayooj B Kumar | 25 |
-| Azr43lKn1ght | 24 |
 | 5h4rrk | 22 |
 | fugitive | 20 |
 | th3mech4n1c | 20 |
@@ -76,7 +74,6 @@ Use `run.py` to see your solve stats.
 | Sherlock Cheezu | 16 |
 | d3liri0us | 15 |
 | Captain-kay | 15 |
-| w3!rd5h4rk | 14 |
 | g4rud4 | 14 |
 | D3v1L | 14 |
 | drunken_betch | 14 |
@@ -85,7 +82,6 @@ Use `run.py` to see your solve stats.
 | stuxn3t | 13 |
 | Sampath | 13 |
 | _b1u33 | 12 |
-| jl911 | 12 |
 | dhN | 12 |
 | chandu-kona | 11 |
 | kndn | 11 |
@@ -96,7 +92,6 @@ Use `run.py` to see your solve stats.
 | Sayooj_B_Kumar | 9 |
 | P4BLØ | 9 |
 | jarvis | 9 |
-| Sabhya | 9 |
 | drunknb0tch | 9 |
 | Goutham Rajesh | 9 |
 | Vishvesh | 8 |
@@ -109,7 +104,6 @@ Use `run.py` to see your solve stats.
 | shravya | 6 |
 | arsenelupwn | 6 |
 | aniketm_ | 6 |
-| Jl | 6 |
 | .d_pro | 6 |
 | otaku_cb | 5 |
 | R3x | 5 |
@@ -117,7 +111,6 @@ Use `run.py` to see your solve stats.
 | a3x3k | 5 |
 | komalrao | 5 |
 | dhn5280 | 5 |
-| hridhya | 5 |
 | w3!RD5h4rk | 5 |
 | B1u33 | 5 |
 | Ad0lphus | 4 |
@@ -146,7 +139,6 @@ Use `run.py` to see your solve stats.
 | 2TAP | 2 |
 | shinobu | 2 |
 | ph03n1x | 2 |
-| w31rd5h4rk | 2 |
 | aswinmguptha | 2 |
 | chandukona | 2 |
 | Ary | 2 |
@@ -160,8 +152,6 @@ Use `run.py` to see your solve stats.
 | InvictusGamer | 2 |
 | 7h3M0nk | 2 |
 | _mamatha_ | 2 |
-| a.s.k3052 | 2 |
-| jodeeel | 2 |
 | akulpillai | 2 |
 | lu77_u | 2 |
 | Sk4d00sh | 2 |
