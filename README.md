@@ -8,13 +8,13 @@ Use `run.py` to see your solve stats.
 ## Team Statistics
 | Username | Solves |
 | --- | --- |
-| SkyLance | 208 |
-| z_pacifist | 176 |
+| SkyLance | 209 |
+| z_pacifist | 177 |
 | Aneesh | 166 |
 | lu513n | 165 |
 | ls.exe | 163 |
 | justk1r4 | 161 |
-| r0r1 | 120 |
+| r0r1 | 121 |
 | hisoka.fr | 113 |
 | kr4z31n | 111 |
 | winters0x168 | 110 |
@@ -26,7 +26,7 @@ Use `run.py` to see your solve stats.
 | luc_f3r | 96 |
 | retr0ds | 94 |
 | sp3p3x | 91 |
-| heartstoller | 85 |
+| heartstoller | 86 |
 | alfin | 82 |
 | h3ri0s | 82 |
 | spektre | 81 |
@@ -37,8 +37,8 @@ Use `run.py` to see your solve stats.
 | aerosol. | 66 |
 | k1n0r4 | 65 |
 | the.m3chanic | 65 |
+| b4tmite | 64 |
 | DarkKnight | 63 |
-| b4tmite | 63 |
 | exigent07 | 63 |
 | rudraagh | 60 |
 | 5h4rrK | 54 |
@@ -81,10 +81,10 @@ Use `run.py` to see your solve stats.
 | Abhishek S | 13 |
 | stuxn3t | 13 |
 | Sampath | 13 |
+| kndn | 12 |
 | _b1u33 | 12 |
 | dhN | 12 |
 | chandu-kona | 11 |
-| kndn | 11 |
 | Aneesh nadh R | 11 |
 | Aryaa | 11 |
 | Rithvik | 10 |
