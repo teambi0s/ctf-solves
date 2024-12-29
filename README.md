@@ -8,48 +8,48 @@ Use `run.py` to see your solve stats.
 ## Team Statistics
 | Username | Solves |
 | --- | --- |
-| SkyLance | 238 |
-| z_pacifist | 180 |
+| SkyLance | 250 |
+| z_pacifist | 181 |
+| ls.exe | 168 |
 | Aneesh | 166 |
-| ls.exe | 166 |
 | lu513n | 165 |
-| justk1r4 | 161 |
-| r0r1 | 122 |
-| hisoka.fr | 116 |
-| winters0x168 | 113 |
-| kr4z31n | 112 |
-| sans8475 | 108 |
-| gh0stkn1ght | 108 |
+| justk1r4 | 162 |
+| r0r1 | 129 |
+| winters0x168 | 124 |
+| hisoka.fr | 118 |
+| sans8475 | 118 |
+| kr4z31n | 118 |
+| k0w4lzk1 | 116 |
+| gh0stkn1ght | 114 |
+| tourpran | 106 |
 | Azr43lKn1ght | 104 |
-| tourpran | 104 |
-| k0w4lzk1 | 103 |
-| luc_f3r | 99 |
-| retr0ds | 97 |
-| spektre | 91 |
-| heartstoller | 91 |
-| sp3p3x | 91 |
-| h3ri0s | 84 |
+| heartstoller | 103 |
+| luc_f3r | 100 |
+| retr0ds | 98 |
+| sp3p3x | 95 |
+| h3ri0s | 93 |
+| spektre | 92 |
+| ___apn___ | 90 |
 | alfin | 83 |
-| ___apn___ | 83 |
-| jl_24 | 79 |
-| __m1m1__ | 78 |
-| sherlockcheezu | 75 |
-| aerosol. | 70 |
-| k1n0r4 | 67 |
-| the.m3chanic | 66 |
-| exigent07 | 66 |
-| b4tmite | 65 |
+| __m1m1__ | 82 |
+| jl_24 | 82 |
+| aerosol. | 79 |
+| sherlockcheezu | 77 |
+| exigent07 | 77 |
+| the.m3chanic | 72 |
+| b4tmite | 69 |
+| k1n0r4 | 68 |
 | DarkKnight | 63 |
 | rudraagh | 60 |
 | 5h4rrK | 54 |
 | l0x.me | 50 |
 | careless_finch | 48 |
-| hrippi.x_ | 47 |
+| hrippi.x_ | 48 |
 | AmunRha | 46 |
 | Barla Abhishek | 39 |
 | Az3z3l | 39 |
+| arch_zero | 32 |
 | its_me_ask | 31 |
-| arch_zero | 30 |
 | Ritvik | 29 |
 | tricky_ninja | 29 |
 | sourag | 28 |
@@ -74,13 +74,14 @@ Use `run.py` to see your solve stats.
 | Sherlock Cheezu | 16 |
 | d3liri0us | 15 |
 | Captain-kay | 15 |
+| 570rmbreaker | 14 |
 | g4rud4 | 14 |
 | D3v1L | 14 |
 | drunken_betch | 14 |
-| 570rmbreaker | 13 |
 | Abhishek S | 13 |
 | stuxn3t | 13 |
 | Sampath | 13 |
+| br34dcrumb | 12 |
 | kndn | 12 |
 | _b1u33 | 12 |
 | dhN | 12 |
@@ -96,7 +97,6 @@ Use `run.py` to see your solve stats.
 | Goutham Rajesh | 9 |
 | Vishvesh | 8 |
 | Cap-k | 8 |
-| br34dcrumb | 7 |
 | 4d0lphu5 | 7 |
 | yadhuz | 7 |
 | d1sc0 | 7 |
@@ -109,6 +109,7 @@ Use `run.py` to see your solve stats.
 | R3x | 5 |
 | 4n4rch15t | 5 |
 | a3x3k | 5 |
+| t0r4n4d0 | 5 |
 | komalrao | 5 |
 | dhn5280 | 5 |
 | w3!RD5h4rk | 5 |
@@ -127,6 +128,7 @@ Use `run.py` to see your solve stats.
 | v1Ru5 | 4 |
 | 0xd15c0 | 4 |
 | r3d_t3mp3st | 4 |
+| lu77_u | 4 |
 | DhN | 3 |
 | nandita sangeeth | 3 |
 | a.lucard. | 3 |
@@ -153,13 +155,16 @@ Use `run.py` to see your solve stats.
 | 7h3M0nk | 2 |
 | _mamatha_ | 2 |
 | akulpillai | 2 |
-| lu77_u | 2 |
+| 5h3nron | 2 |
+| ravindra0605_91248 | 2 |
+| tr4c3734 | 2 |
 | Sk4d00sh | 2 |
 | r3x | 1 |
 | dark.kn1ght | 1 |
 | Revathi chundi | 1 |
 | Aiswarya | 1 |
 | stryder | 1 |
+| zen_5kii | 1 |
 | bx1n | 1 |
 | Vishvesh_R | 1 |
 | CR33D | 1 |
@@ -174,12 +179,12 @@ Use `run.py` to see your solve stats.
 | ashutosha | 1 |
 | xbr01 | 1 |
 | 0kay4nu | 1 |
+| d3vn37 | 1 |
+| lordavis10 | 1 |
+| arch_duk3 | 1 |
 | v4d3r | 1 |
 | az3z3l | 1 |
-| ravindra0605_91248 | 1 |
-| 5h3nron | 1 |
 | 2021-03-27 15:17:55.989000 | 1 |
 | crum6s | 1 |
-| tr4c3734 | 1 |
 | cjunior | 1 |
 | 1515 | 1 |

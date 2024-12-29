@@ -1,0 +1,43 @@
+Challenge Name,Category,Solved/Attempted by,Solve time
+nitectf24-buckbeak,['forensics'],"kr4z31n, aerosol., silence_, __m1m1__, gh0stkn1ght, k0w4lzk1, heartstoller, jl_24, sp3p3x, sans8475, winters0x168, ___apn___",2024-12-15 18:15:34.507000
+nitectf24-charliehunt-2,['web'],"k0w4lzk1, h3ri0s, luc_f3r, winters0x168, exigent07",2024-12-15 16:56:09.342000
+nitectf24-pci-config-mayhem,['pwn'],"_r0r1_, tourpran",2024-12-15 14:32:13.323000
+nitectf24-basic-avr,['hardware'],"the.m3chanic, br34dcrumb",2024-12-15 06:32:14.166000
+nitectf24-gate-escaping,['pwn'],"silence_, the.m3chanic, heartstoller",2024-12-15 05:25:36.150000
+nitectf24-gatekeeping,['reverse'],the.m3chanic,2024-12-15 00:14:28.127000
+nitectf24-charlie-hunt3,['web'],"k0w4lzk1, exigent07, winters0x168, h3ri0s",2024-12-15 00:07:30.199000
+nitectf24-hook-the-world,['pwn'],"silence_, heartstoller, _r0r1_",2024-12-15 00:04:07.837000
+nitectf24-charliehunt-1,['web'],"h3ri0s, winters0x168, exigent07, k0w4lzk1",2024-12-14 23:09:22.552000
+nitectf24-freakada,['misc'],"sans8475, kr4z31n, k0w4lzk1, lu77_u, heartstoller, d3vn37, __m1m1__, gh0stkn1ght",2024-12-14 19:55:07.140000
+nitectf24-ooguth,['web'],"h3ri0s, winters0x168, exigent07, k0w4lzk1",2024-12-14 19:41:19.305000
+nitectf24-patternedsecrets,['forensics'],"gh0stkn1ght, 5h3nron, ravindra0605_91248, lu77_u, lordavis10, kr4z31n, __m1m1__",2024-12-14 18:51:25.939000
+nitectf24-mic-mimic,['hardware'],br34dcrumb,2024-12-14 18:31:41.019000
+nitectf24-quadrillionmatrices,['crypto'],"sans8475, aerosol., ___apn___",2024-12-14 18:11:36.712000
+nitectf24-lacasadepapal,['crypto'],arch_duk3,2024-12-14 17:24:12.576000
+nitectf24-glitchai,['ai'],"silence_, heartstoller, 570rmbreaker, kr4z31n",2024-12-14 15:37:36.898000
+nitectf24-tetriffic,['forensics'],"__m1m1__, gh0stkn1ght, sp3p3x, kr4z31n, hrippi.x_, jl_24",2024-12-14 08:54:25.096000
+nitectf24-macroexe,['forensics'],"the.m3chanic, jl_24, sp3p3x, gh0stkn1ght",2024-12-14 03:06:23.319000
+nitectf24-tammytantrum,['web'],"h3ri0s, winters0x168, k0w4lzk1, exigent07",2024-12-14 02:32:39.695000
+nitectf24-cybernotes,['web'],"h3ri0s, winters0x168, tr4c3734, k0w4lzk1, exigent07",2024-12-14 02:32:00.021000
+nitectf24-layered_secrets,['crypto'],"sans8475, ___apn___, aerosol.",2024-12-14 02:29:21.773000
+nitectf24-ancient-ahh-display,['hardware'],br34dcrumb,2024-12-14 01:00:29.172000
+nitectf24-flightrisk,['reverse'],"the.m3chanic, sherlockcheezu",2024-12-14 00:28:02.476000
+nitectf24-uart-detective,['hardware'],br34dcrumb,2024-12-13 23:55:44.403000
+nitectf24-import_random,['crypto'],"aerosol., aerosol.",2024-12-13 23:25:14.437000
+nitectf24-seek-quence,['hardware'],br34dcrumb,2024-12-13 23:22:05.224000
+nitectf24-und3rc0ver,['misc'],gh0stkn1ght,2024-12-13 23:17:01.013000
+nitectf24-rsaabc,['crypto'],arch_zero,2024-12-13 22:15:25.411000
+nitectf24-r_stand_alone,['crypto'],"ls.exe, sans8475, hisoka.fr",2024-12-13 21:02:08.906000
+nitectf24-beyond_a_display,['osint'],"silence_, heartstoller",2024-12-13 20:55:51.001000
+nitectf24-backtrack,['osint'],"silence_, heartstoller, theb4tmite",2024-12-13 20:12:37.211000
+nitectf24-mumbodumbo,['ai'],"silence_, heartstoller",2024-12-13 19:58:15.983000
+nitectf24-chaterine,['pwn'],"silence_, theb4tmite, heartstoller, _r0r1_",2024-12-13 19:48:00.851000
+nitectf24-print-the-gifts,['pwn'],silence_,2024-12-13 19:27:18.464000
+nitectf24-mixedsignal,['pwn'],"silence_, heartstoller, theb4tmite, _r0r1_",2024-12-13 19:26:14.455000
+nitectf24-troubled_classifier,['ai'],"___apn___, silence_, heartstoller, jatin.exe, sans8475",Nil
+nitectf24-farewell-firewall,['ai'],"heartstoller, silence_, 570rmbreaker",Nil
+nitectf24-dogs_day_out,['reverse'],"the.m3chanic, sherlockcheezu, kndn, heartstoller, aerosol.",Nil
+nitectf24-restricted_jumper,['reverse'],"sherlockcheezu, kndn, the.m3chanic",Nil
+nitectf24-mine_the_cap,['forensics'],"gh0stkn1ght, kr4z31n, __m1m1__, sp3p3x, sans8475, silence_, k0w4lzk1",Nil
+nitectf24-jsapi,['web'],"k0w4lzk1, winters0x168, h3ri0s, luc_f3r",Nil
+nitectf24-rusty_restraints,['reverse'],"sherlockcheezu, silence_, the.m3chanic, kr4z31n, k0w4lzk1, aerosol.",Nil
